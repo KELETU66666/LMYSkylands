@@ -1,0 +1,21 @@
+{
+	title: "从星空之外取得不存于世之物",
+	x: -17.0d,
+	y: 2.0d,
+	dependencies: [
+		"3f2d9153"
+	],
+	tasks: [{
+		uid: "44cbe2da",
+		type: "item",
+		items: [{
+			item: "modularmachinery:xingneng_shequ_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "0ab8fc36",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

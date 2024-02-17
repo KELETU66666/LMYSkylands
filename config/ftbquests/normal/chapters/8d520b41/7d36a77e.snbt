@@ -1,0 +1,41 @@
+{
+	title: "喂,精灵啊,我是特瓦林,猫尾酒馆来点货",
+	x: 8.0d,
+	y: 6.5d,
+	dependencies: [
+		"e0d5d17f"
+	],
+	tasks: [{
+		uid: "3073e3f4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 13"
+		}]
+	},
+	{
+		uid: "9313247b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 14"
+		}]
+	},
+	{
+		uid: "3ccda6ee",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 15"
+		}]
+	},
+	{
+		uid: "db0ebfb8",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "4f324b77",
+		type: "item",
+		item: "appliedenergistics2:material 1 38"
+	}]
+}

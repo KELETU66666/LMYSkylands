@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"ceec52b2"
+	],
+	tasks: [{
+		uid: "c28eb8c0",
+		type: "item",
+		items: [{
+			item: "modularmachinery:gaoji_jiaolu_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "e78d8a6f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

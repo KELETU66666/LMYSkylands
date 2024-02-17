@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -6.0d,
+	dependencies: [
+		"58b708b8"
+	],
+	tasks: [{
+		uid: "de94a9ba",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}]
+	}],
+	rewards: [{
+		uid: "f226b8f6",
+		type: "item",
+		item: "excompressum:compressed_block 1 2",
+		count: 64
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	title: "上来就做8组水泥真的很虾头",
+	x: 5.0d,
+	y: -8.0d,
+	text: [
+		"我是上头男，所以做一组就够了"
+	],
+	dependencies: [
+		"4753700b"
+	],
+	tasks: [{
+		uid: "74870993",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "5a704716",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 64
+	},
+	{
+		uid: "6eeb9ad7",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 64
+	},
+	{
+		uid: "5aa3683c",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 64
+	},
+	{
+		uid: "ca590411",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 64
+	},
+	{
+		uid: "19b57e08",
+		type: "item",
+		item: "tconstruct:seared 1 3",
+		count: 64
+	}]
+}

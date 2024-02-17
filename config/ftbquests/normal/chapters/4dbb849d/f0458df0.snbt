@@ -1,0 +1,47 @@
+{
+	title: "uu4件套",
+	x: -5.5d,
+	y: -4.0d,
+	shape: "pentagon",
+	text: [
+		"虽然不够万能,但也足够使用了"
+	],
+	dependencies: [
+		"f3fbd5a7",
+		"1bc3e301"
+	],
+	tasks: [{
+		uid: "6ed87fc2",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 61"
+		}]
+	},
+	{
+		uid: "5201bc12",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 63"
+		}]
+	},
+	{
+		uid: "0ee59137",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 64"
+		}]
+	},
+	{
+		uid: "bf1fc3de",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 62"
+		}]
+	}],
+	rewards: [{
+		uid: "17ff4689",
+		type: "ftbmoney:money",
+		ftb_money: 100L,
+		random_bonus: 50
+	}]
+}

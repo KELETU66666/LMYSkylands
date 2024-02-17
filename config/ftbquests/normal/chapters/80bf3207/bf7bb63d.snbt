@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"c5756c6d"
+	],
+	tasks: [{
+		uid: "f2cf3a58",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:polymer_clay"
+		}]
+	}]
+}

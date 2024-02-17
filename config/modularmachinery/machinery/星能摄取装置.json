@@ -1,0 +1,4360 @@
+{
+    "registryname": "xingneng_shequ",
+    "localizedname": "星能摄取装置",
+    "requires-blueprint": false,
+    "color": "C3DEE8",
+    "failure-action": "still",
+    "parts": [
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 32,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 32,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 32,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 34,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 34,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 18,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 18,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 34,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 34,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 34,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 22,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 22,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 22,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 22,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 33,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 18,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 33,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 33,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 33,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 18,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 33,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 31,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 35,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 7,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 1,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 32,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 7,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 32,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 32,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 45,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 35,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 35,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 7,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 37,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 34,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 34,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 34,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 34,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 34,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 23,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 23,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 30,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 23,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 30,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 30,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 15,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 34,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 34,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "z": 1,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 34,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "z": 7,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 33,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 33,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 33,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 29,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 22,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 29,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 29,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 37,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 37,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 29,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 22,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 16,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 38,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "environmentaltech:ionite_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 30,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 30,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 30,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 30,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 24,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 30,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 24,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 30,
+            "z": 7,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 44,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 24,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 21,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 21,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 21,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 14,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 36,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 31,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 31,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 36,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 31,
+            "z": 7,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 31,
+            "z": 1,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 35,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 31,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 23,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 34,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 34,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 34,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 32,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 32,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 32,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 25,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 25,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 25,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 25,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 25,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 33,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 34,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 34,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 34,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 34,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 33,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 34,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 33,
+            "z": 3,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 33,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 26,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 41,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 27,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 18,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 18,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 18,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 39,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 25,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 25,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 25,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 21,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 21,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 22,
+            "z": 7,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 22,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 43,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 22,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 22,
+            "z": 1,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 30,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 31,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 27,
+            "z": 1,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 27,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 39,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 22,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "z": 5,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 40,
+            "z": 5,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 40,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 40,
+            "z": 3,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcontroller@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 25,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 29,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 41,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 25,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 29,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "z": 3,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 22,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 27,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 41,
+            "z": 5,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 27,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 41,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 41,
+            "z": 3,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 27,
+            "z": 7,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 17,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 29,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 29,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 29,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 29,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 21,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 21,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 17,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 18,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 18,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 7,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 18,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 30,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "z": 1,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 39,
+            "z": 3,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 39,
+            "z": 5,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 39,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 40,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 26,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 18,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 14,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 40,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 18,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 42,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 22,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 22,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 27,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 38,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 38,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 22,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 38,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 22,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 25,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 25,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 24,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 25,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 26,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 26,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 31,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 26,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 31,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 31,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 3,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 36,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 5,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 25,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 25,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 25,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 21,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 33,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 22,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 22,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 22,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 25,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 24,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 22,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 27,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 25,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "z": 6,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 16,
+            "z": 5,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 16,
+            "z": 4,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 16,
+            "z": 3,
+            "elements": [
+                "absentbydesign:wall_diorite_smooth@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 16,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "environmentaltech:ionite_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 37,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 22,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 22,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 22,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 22,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 21,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 21,
+            "z": 5,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 23,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 31,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 30,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 31,
+            "z": 3,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 38,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 30,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 30,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 31,
+            "z": 5,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 22,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 17,
+            "z": 2,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 17,
+            "z": 6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 28,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 21,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 25,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 21,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 25,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 36,
+            "z": 4,
+            "elements": [
+                "botania:dreamwood0wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 7,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 25,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 29,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 29,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 29,
+            "z": 4,
+            "elements": [
+                "tconstruct:clear_stained_glass@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 27,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 19,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_block@0"
+            ]
+        }
+    ]}

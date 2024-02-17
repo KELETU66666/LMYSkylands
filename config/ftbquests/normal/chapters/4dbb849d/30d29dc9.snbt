@@ -1,0 +1,46 @@
+{
+	title: "小鸡子,有没有点树脂?!!",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"树脂666",
+		"使用木龙头右键橡胶树上的树脂"
+	],
+	dependencies: [
+		"27ba7e99",
+		"343ddd56"
+	],
+	tasks: [{
+		uid: "c6defe22",
+		type: "item",
+		items: [{
+			item: "ic2:treetap"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5ace35ab",
+		type: "item",
+		item: "ic2:misc_resource 1 4",
+		count: 6
+	},
+	{
+		uid: "52d35028",
+		type: "item",
+		item: "ic2:misc_resource 1 4",
+		count: 6
+	},
+	{
+		uid: "de63d96c",
+		type: "item",
+		item: "ic2:misc_resource 1 4",
+		count: 6
+	},
+	{
+		uid: "c98754a3",
+		type: "item",
+		item: "ic2:sapling",
+		count: 32
+	}]
+}

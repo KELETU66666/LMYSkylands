@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"因魔改缘故,当机器不工作时加满能量升级 减少部分速度升级即可工作",
+		"装满能量升级和速度升级时提升128倍"
+	],
+	dependencies: [
+		"c1074dde",
+		"6e0c26b6"
+	],
+	tasks: [{
+		uid: "4d251884",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "2ff73dec",
+		type: "item",
+		item: "mekanism:basicblock 1 8"
+	}]
+}

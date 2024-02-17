@@ -1,0 +1,32 @@
+{
+	title: "超级神中神",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"要使用此mod，首先需要使用打包合成编码器给两个样板包储存器偏码。然后将其中一个样板包储存器放入打包机，另一个放入解机，并将两台机器都连入ME网络，打包机就会自动接收物品，制作配方包裹，而解包机则会获取配方包裹，将物品输出到相邻机器的物品栏中，两台机器都会根据样板包储存器里的编码告诉ME网络它们能合成什么，当打包机被连接时，将会把所有包裹弹出进入ME网络。",
+		"推荐摆置方式为[ae网络][打包机][解包机][机器]"
+	],
+	tasks: [{
+		uid: "59ab82d6",
+		type: "item",
+		items: [{
+			item: "packagedauto:encoder"
+		}]
+	}],
+	rewards: [{
+		uid: "1e777f7f",
+		type: "item",
+		item: "packagedauto:packager"
+	},
+	{
+		uid: "896950db",
+		type: "item",
+		item: "packagedauto:unpackager"
+	},
+	{
+		uid: "729716fc",
+		type: "item",
+		item: "packagedauto:recipe_holder",
+		count: 64
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "核电!启动!",
+	x: 0.0d,
+	y: -11.5d,
+	text: [
+		"氘氚燃料可增加发电量!最高单台核电99.98MRf/t"
+	],
+	dependencies: [
+		"bf8538f9",
+		"cd5d265b",
+		"8ea45d72"
+	],
+	tasks: [{
+		uid: "286b8f8c",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:reactor"
+		}]
+	}],
+	rewards: [{
+		uid: "60258761",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

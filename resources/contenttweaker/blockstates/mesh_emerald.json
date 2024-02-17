@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "textures": {
+        "texture": "contenttweaker:blocks/mesh_emerald",
+        "particle": "contenttweaker:blocks/mesh_emerald"
+      },
+      "model": "contenttweaker:mesh_emerald",
+      "uvlock": true,
+      "transform": "forge:default-block"
+    },
+    "variants": {
+      "normal": [{}],
+      "inventory": [{}]
+    }
+  }

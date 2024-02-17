@@ -1,0 +1,29 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	text: [
+		"给高炉一个红石信号能让高炉一直处于加热状态",
+		""
+	],
+	dependencies: [
+		"628cb53f"
+	],
+	tasks: [{
+		uid: "e49b58f1",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 50"
+		}]
+	}],
+	rewards: [{
+		uid: "e5fcfa25",
+		type: "item",
+		item: "ic2:te 1 12"
+	},
+	{
+		uid: "82da69b5",
+		type: "item",
+		item: "ic2:crafting 1 5",
+		count: 10
+	}]
+}

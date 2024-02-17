@@ -1,0 +1,40 @@
+{
+	title: "开挖！",
+	x: -3.0d,
+	y: -6.0d,
+	text: [
+		"挖 挖吗?开撸！"
+	],
+	dependencies: [
+		"619556fe"
+	],
+	tasks: [{
+		uid: "86e0da4e",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "70fe8059",
+		type: "item",
+		item: "extrautils2:compressedcobblestone",
+		count: 64
+	},
+	{
+		uid: "32b849ab",
+		type: "item",
+		item: "extrautils2:ingredients 1 8"
+	},
+	{
+		uid: "6b6ebc32",
+		type: "item",
+		item: "extrautils2:grocket"
+	},
+	{
+		uid: "80248c2e",
+		type: "item",
+		item: "extrautils2:pipe"
+	}]
+}

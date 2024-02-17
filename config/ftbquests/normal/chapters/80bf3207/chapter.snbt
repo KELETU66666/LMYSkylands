@@ -1,0 +1,7 @@
+{
+	title: "[附属章节]深度怪物学习",
+	icon: "deepmoblearning:data_model_tinker_slime",
+	always_invisible: false,
+	group: 1488665193,
+	default_quest_shape: ""
+}

@@ -1,0 +1,32 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	dependencies: [
+		"d2ee4b3c"
+	],
+	tasks: [{
+		uid: "da0c410e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmachine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "f02764c0",
+		type: "item",
+		item: {
+			id: "astralsorcery:itemrockcrystalsimple",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						size: 341,
+						purity: 100,
+						collectiveCapability: 100,
+						fract: 0,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	}]
+}

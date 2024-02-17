@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"用于绑定生物，将绑定后的测试密钥塞进测试基石里进行测试，越高级的数据，获得的奖励越好。故障心脏也只能通过测试基石获得。具体数量可查看jei。",
+		"调谐：深度学习机里放置想要调谐的生物数据后击杀对应生物，两者必须同时在物品快捷栏中，否则无法生效。调谐后的密钥在测试契石中使用后会消失。"
+	],
+	dependencies: [
+		"ab44875b"
+	],
+	tasks: [{
+		uid: "4bd6c1c6",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:trial_key"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

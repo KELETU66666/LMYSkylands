@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: 4.0d,
+	dependencies: [
+		"961f9c8a"
+	],
+	tasks: [{
+		uid: "f3aa8dfa",
+		type: "item",
+		items: [{
+			item: "packagedastral:trait_crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "4ae490ad",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "懒人ae 启动！",
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"fb3c2bbb"
+	],
+	tasks: [{
+		uid: "be0ed7a6",
+		type: "item",
+		items: [{
+			item: "threng:material"
+		}]
+	}],
+	rewards: [{
+		uid: "0ebe6456",
+		type: "item",
+		item: "threng:material 1 4"
+	}]
+}

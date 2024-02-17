@@ -1,0 +1,67 @@
+
+item.contenttweaker.compressed_biofuel.name=压缩生物燃料
+item.contenttweaker.hundunhexinqidian.name=混沌核心奇点
+item.contenttweaker.juexinghexinqidian.name=觉醒核心奇点
+item.contenttweaker.shuangzufeilonghexinqidian.name=双足飞龙核心奇点
+item.contenttweaker.shuijingjuzhenqidian.name=水晶矩阵奇点
+item.contenttweaker.uujinshuqidian.name=uu金属奇点
+item.contenttweaker.jixiewaikeqidian.name=机械外壳奇点
+item.contenttweaker.xuangangqidian.name=玄钢奇点
+item.contenttweaker.wuzhi.name=彩虹物质
+item.contenttweaker.chilun.name=彩虹齿轮
+item.contenttweaker.xukong.name=彩虹锭
+item.contenttweaker.lmyjuexingyingxiongxunzhang.name=觉醒英雄勋章
+item.contenttweaker.key.name=钥匙
+item.contenttweaker.wuqiongdabian.name=彩虹答辩
+item.contenttweaker.shit.name=答辩
+item.contenttweaker.lmyfengzhuangmolilvbaoshidianluban.name=封装魔力绿宝石电路板
+item.contenttweaker.lmyjingtigaiyahexing.name=晶体盖亚绿宝石核心
+item.contenttweaker.lmygaiyalvbaoshidianluban.name=盖亚绿宝石电路板
+item.contenttweaker.lmyfengzhuanggaiyalvbaoshidianluban.name=封装盖亚绿宝石电路板
+item.contenttweaker.lmyjingtigaiyadianluban.name=晶体盖亚绿宝石电路板
+item.contenttweaker.lmyjingtigaiyanenglianghexing.name=晶体盖亚能量核心
+item.contenttweaker.lmyjingtimolidianluban.name=晶体魔力绿宝石电路板
+item.contenttweaker.lmyjingtimolihexing.name=晶体魔力绿宝石核心
+item.contenttweaker.lmyjingtimolinenglianghexing.name=晶体魔力绿宝石能量核心
+item.contenttweaker.lmymolilvbaoshidianluban.name=魔力绿宝石电路板
+item.contenttweaker.lmyyasuomolilvbaoshiding.name=压缩魔力绿宝石锭
+item.contenttweaker.lmyyasuogaiyalvbaoshiding.name=压缩盖亚绿宝石锭
+item.contenttweaker.lmymolilvbaoshiding.name=魔力绿宝石锭
+item.contenttweaker.lmymolilvbaoshiban.name=魔力绿宝石板
+item.contenttweaker.lmygaiyalvbaoshiban.name=盖亚绿宝石板
+item.contenttweaker.lmymolilvbaoshi.name=魔力绿宝石
+item.contenttweaker.lmygaiyalvbaoshi.name=盖亚绿宝石
+item.contenttweaker.lmygaiyalvbaoshiding.name=盖亚绿宝石锭
+item.contenttweaker.lmyyuanshibaozhu.name=元始宝珠
+item.contenttweaker.lmychongnengqianghuahejin.name=充能强化合金
+item.contenttweaker.lmychongnengfujihejin.name=充能富集合金
+
+
+item.contenttweaker.ingot_rainbow_pro.name=§k§f§k§mrainbow ingot pro
+item.contenttweaker.ingot_rainbow_pro_max.name=§k§mrainbow ingot pro max
+item.contenttweaker.gear_rainbow_pro.name=§k§f§k§mrainbow gear pro
+item.contenttweaker.gear_rainbow_pro_max.name=§k§mrainbow gear pro max
+item.contenttweaker.matter_rainbow_pro.name=§k§f§k§mrainbow matter pro
+item.contenttweaker.plate_rainbow_pro.name=§k§f§k§mrainbow plate pro
+item.contenttweaker.plate_rainbow_pro_max.name=§k§mrainbow plate pro max
+item.contenttweaker.singularity_rainbow_pro.name=§k§mrainbow singularity pro
+item.contenttweaker.singularity_rainbow_pro_max.name=§k§mrainbow singularity pro max
+
+
+
+tile.contenttweaker.unstable_diamond_block.name=不稳定钻石块
+tile.contenttweaker.stable_diamond_block.name=稳定钻石块
+tile.contenttweaker.block_matter_rainbow_pro.name=彩虹物质块
+tile.contenttweaker.lmygaojijixiewaike.name=高级机械外壳
+tile.contenttweaker.lmyjiujijixiewaike.name=究极机械外壳
+tile.contenttweaker.lmygaiyalvbaoshikuai.name=盖亚绿宝石块
+
+
+
+tile.contenttweaker.mesh_iron.name=铁筛网
+tile.contenttweaker.mesh_flint.name=燧石筛网
+tile.contenttweaker.mesh_diamond.name=钻石筛网
+tile.contenttweaker.mesh_emerald.name=绿宝石筛网
+
+
+fluid.lmydianzifengzhuangye1=电子封装液

@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"聚星缸的输入输出都在底部,推荐使用末影接口自动化",
+		"合成不了请在商店购买星辉知识共享卷轴解锁全部进度",
+		"解锁全部进度后还是不能合成请找个星能力浓郁的地方"
+	],
+	dependencies: [
+		"d2ee4b3c",
+		"aa16f32c",
+		"07f93d3b"
+	],
+	tasks: [{
+		uid: "f4cef2fd",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	}],
+	rewards: [{
+		uid: "9e9c9944",
+		type: "item",
+		item: "enderio:item_item_conduit",
+		count: 32
+	},
+	{
+		uid: "782cef67",
+		type: "item",
+		item: "enderio:item_liquid_conduit 1 2",
+		count: 32
+	}]
+}

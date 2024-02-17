@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	dependencies: [
+		"e3a3414c"
+	],
+	tasks: [{
+		uid: "2b24be3d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:paint_ball 1 13"
+		}]
+	}],
+	rewards: [{
+		uid: "cdc32dfb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

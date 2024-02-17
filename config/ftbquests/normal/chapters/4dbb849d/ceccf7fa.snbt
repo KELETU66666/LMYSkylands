@@ -1,0 +1,25 @@
+{
+	x: -7.5d,
+	y: -4.0d,
+	dependencies: [
+		"f0458df0"
+	],
+	tasks: [{
+		uid: "197082fa",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "ic2uu_matter",
+					Amount: 1000
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f0f523ad",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

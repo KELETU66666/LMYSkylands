@@ -1,0 +1,48 @@
+{
+	title: "传??传吗",
+	x: 4.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "60e7f925",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "cc8a1494",
+		type: "item",
+		item: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:extract"
+			}
+		},
+		count: 8
+	},
+	{
+		uid: "38ebc415",
+		type: "item",
+		item: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		},
+		count: 64
+	},
+	{
+		uid: "dbb79e21",
+		type: "item",
+		item: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		},
+		count: 8
+	}]
+}

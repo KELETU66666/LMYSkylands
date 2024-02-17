@@ -1,0 +1,26 @@
+{
+	x: -4.0d,
+	y: -12.0d,
+	dependencies: [
+		"2f78f7a1"
+	],
+	tasks: [{
+		uid: "1f98fdf7",
+		type: "item",
+		items: [{
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "dark_matter",
+					Amount: 1000
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8e4434c1",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "金币3000",
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		ftb_money: 0L,
+		random_bonus: 4988,
+		type: "ftbmoney:money"
+	}],
+	loot_crate: {
+		string_id: "_3000",
+		item_name: "3000金币抽奖",
+		color: 16777215,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

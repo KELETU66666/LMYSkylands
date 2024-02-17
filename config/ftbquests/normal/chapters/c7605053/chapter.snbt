@@ -1,0 +1,7 @@
+{
+	title: "[特殊章]合成拓展",
+	icon: "extendedcrafting:table_ultimate",
+	always_invisible: false,
+	group: 1552465683,
+	default_quest_shape: ""
+}

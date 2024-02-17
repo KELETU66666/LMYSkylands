@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"ac884014",
+		"1e28c21b"
+	],
+	tasks: [{
+		uid: "17329c8c",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:creative_model_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

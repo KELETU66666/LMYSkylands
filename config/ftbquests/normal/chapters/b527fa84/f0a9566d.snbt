@@ -1,0 +1,40 @@
+{
+	x: 9.0d,
+	y: -3.5d,
+	dependencies: [
+		"186f022f",
+		"5e9e151e",
+		"29788f18",
+		"192dc5ef",
+		"4e409fe2",
+		"24274205",
+		"5adca17f",
+		"86846c21",
+		"1a4e8c06",
+		"a2f002fd",
+		"f4ebeb9a",
+		"60b3f661",
+		"ffc0f513",
+		"fdda24a9",
+		"13261e33",
+		"c36176f6",
+		"3d4cb5db",
+		"1747d5dd",
+		"88e2c299",
+		"3beed113",
+		"b8c9a656",
+		"f16e6c31"
+	],
+	tasks: [{
+		uid: "1f78a654",
+		type: "item",
+		items: [{
+			item: "contenttweaker:singularity_rainbow_pro"
+		}]
+	}],
+	rewards: [{
+		uid: "a86a6514",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

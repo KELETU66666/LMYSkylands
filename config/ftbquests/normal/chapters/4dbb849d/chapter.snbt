@@ -1,0 +1,7 @@
+{
+	title: "[第3章]ic2 启动!",
+	icon: "ic2:resource 1 12",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

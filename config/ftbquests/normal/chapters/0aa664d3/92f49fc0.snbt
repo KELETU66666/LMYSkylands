@@ -1,0 +1,141 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	description: "好看！爱看！",
+	text: [
+		"阿卡什宝典应该 也许 大概 不用 讲解 了吧",
+		"要添加一本手册，你只需要简单的把他们用工作台结合，你可以想加多少就加多少，包括书的复制品。",
+		"想要切换宝典到其他模组你所添加的手册，你只需要简单的右键点击它并选择你想要的手册。按住Shif键再右击一个模组的方块会使宝典变成已添加的相应模组的手册。如果你添加了一个模组的多本手册，它会选择你首先添加的手册。左键点击空气使宝典恢复原状。"
+	],
+	dependencies: [
+		"07aa743c"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "7e14d284",
+		type: "checkmark",
+		title: "今天，你读书了吗？",
+		icon: {
+			id: "ftbquests:book",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}],
+	rewards: [{
+		uid: "5b600a7d",
+		type: "item",
+		item: {
+			id: "ftbquests:book",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "4ba77a9a",
+		type: "item",
+		item: {
+			id: "astralsorcery:itemjournal",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		only_one: true
+	},
+	{
+		uid: "3fa57c63",
+		type: "item",
+		item: {
+			id: "botania:lexicon",
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		only_one: true
+	},
+	{
+		uid: "90569c62",
+		type: "item",
+		item: "draconicevolution:info_tablet"
+	},
+	{
+		uid: "c22158e1",
+		type: "item",
+		item: {
+			id: "tconstruct:book",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		only_one: true
+	},
+	{
+		uid: "023421c5",
+		type: "item",
+		item: {
+			id: "conarm:book",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		only_one: true
+	},
+	{
+		uid: "c608ed36",
+		type: "item",
+		item: {
+			id: "valkyrielib:guide",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		only_one: true
+	},
+	{
+		uid: "92c68108",
+		type: "item",
+		item: {
+			id: "immersiveengineering:tool",
+			Damage: 3s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		only_one: true
+	},
+	{
+		uid: "f34f0f0f",
+		type: "item",
+		item: {
+			id: "xnet:xnet_manual",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "787af079",
+		type: "item",
+		item: {
+			id: "akashictome:tome",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "7c8e3791",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "deepmoblearning:book"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

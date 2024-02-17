@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	description: "对准机器/能量立方右键即可升级",
+	dependencies: [
+		"c5756c6d"
+	],
+	tasks: [{
+		uid: "495b1c28",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f3a0cfe9",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

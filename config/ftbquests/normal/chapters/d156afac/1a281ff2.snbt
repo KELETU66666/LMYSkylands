@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: 7.0d,
+	text: [
+		"教程https://www.mcmod.cn/item/216980.html"
+	],
+	dependencies: [
+		"ac1b5c99"
+	],
+	tasks: [{
+		uid: "93bf7425",
+		type: "item",
+		items: [{
+			item: "threng:machine 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "02c0ef20",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

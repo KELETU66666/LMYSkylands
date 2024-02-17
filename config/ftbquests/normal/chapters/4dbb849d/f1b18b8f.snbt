@@ -1,0 +1,23 @@
+{
+	title: "六倍产矿!!!!",
+	x: 6.0d,
+	y: -4.0d,
+	text: [
+		"给与红石信号可以一直处于加热状态"
+	],
+	dependencies: [
+		"31a14210"
+	],
+	tasks: [{
+		uid: "297ae092",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 52"
+		}]
+	}],
+	rewards: [{
+		uid: "1641a935",
+		type: "item",
+		item: "minecraft:lever"
+	}]
+}

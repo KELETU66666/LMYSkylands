@@ -1,0 +1,25 @@
+{
+	title: "魔力魔力魔力,好缺魔力啊WxW",
+	x: 2.0d,
+	y: 6.5d,
+	dependencies: [
+		"d3a7bd86"
+	],
+	tasks: [{
+		uid: "28b0d975",
+		type: "item",
+		items: [{
+			item: "modularmachinery:moli_fadianji_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "c31b5e74",
+		type: "item",
+		item: {
+			id: "mekanism:energycube",
+			tag: {
+				tier: 3
+			}
+		}
+	}]
+}

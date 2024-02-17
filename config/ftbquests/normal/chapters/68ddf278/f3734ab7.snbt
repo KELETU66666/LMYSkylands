@@ -1,0 +1,20 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	text: [
+		"物质聚合器调成聚合模式",
+		"推荐使用xnet运输水槽流体"
+	],
+	tasks: [{
+		uid: "8600b1f1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:condenser"
+		}]
+	}],
+	rewards: [{
+		uid: "b2cf302e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -11.0d,
+	y: -10.0d,
+	text: [
+		"含有木棍一键搭建,背包内有所有材料时手持木棍右键控制器一键搭建(就算缺少部分材料也会搭建,不过能一次拿完就一次拿完)"
+	],
+	dependencies: [
+		"9980c2f8"
+	],
+	tasks: [{
+		uid: "a5100c13",
+		type: "item",
+		items: [{
+			item: "modularmachinery:daxing_lvbaoshi_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "9d513b03",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

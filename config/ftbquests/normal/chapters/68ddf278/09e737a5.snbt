@@ -1,0 +1,51 @@
+{
+	title: "附！魔！书！",
+	icon: {
+		id: "minecraft:enchanted_book",
+		tag: {
+			RepairCost: 1,
+			StoredEnchantments: [{
+				lvl: 3s,
+				id: 37s
+			},
+			{
+				lvl: 5s,
+				id: 36s
+			}]
+		}
+	},
+	x: -13.0d,
+	y: -8.0d,
+	text: [
+		"后续仍可合成，按r查看合成"
+	],
+	dependencies: [
+		"9980c2f8"
+	],
+	tasks: [{
+		uid: "c762e550",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "e19876d6",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				RepairCost: 1,
+				StoredEnchantments: [{
+					lvl: 3s,
+					id: 37s
+				},
+				{
+					lvl: 5s,
+					id: 36s
+				}]
+			}
+		}
+	}]
+}

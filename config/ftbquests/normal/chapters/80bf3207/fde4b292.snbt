@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -4.0d,
+	dependencies: [
+		"0f77c3c8"
+	],
+	tasks: [{
+		uid: "5f5e648e",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:glitch_infused_ingot"
+		}]
+	}]
+}

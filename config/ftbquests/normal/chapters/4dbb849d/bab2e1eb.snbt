@@ -1,0 +1,55 @@
+{
+	title: "进阶ic全家桶!",
+	x: 4.0d,
+	y: 2.0d,
+	dependencies: [
+		"b568200f"
+	],
+	tasks: [{
+		uid: "2d9373d6",
+		type: "item",
+		items: [{
+			item: "mets:te 1 5"
+		}]
+	},
+	{
+		uid: "1d4dc001",
+		type: "item",
+		items: [{
+			item: "mets:te 1 6"
+		}]
+	},
+	{
+		uid: "f1aa3cfb",
+		type: "item",
+		items: [{
+			item: "mets:te 1 7"
+		}]
+	},
+	{
+		uid: "024f78ed",
+		type: "item",
+		items: [{
+			item: "mets:te 1 12"
+		}]
+	},
+	{
+		uid: "35999153",
+		type: "item",
+		items: [{
+			item: "mets:te 1 13"
+		}]
+	},
+	{
+		uid: "f258d0b6",
+		type: "item",
+		items: [{
+			item: "mets:te 1 14"
+		}]
+	}],
+	rewards: [{
+		uid: "d4ef3e08",
+		type: "xp_levels",
+		xp_levels: 40
+	}]
+}

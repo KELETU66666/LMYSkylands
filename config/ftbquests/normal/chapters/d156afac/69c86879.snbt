@@ -1,0 +1,23 @@
+{
+	x: -6.0d,
+	y: 2.0d,
+	text: [
+		"注意!使用更多cpu的处理单元时,cpu内至少应有1个ae原版处理单元!!!",
+		"否则无法工作!!!"
+	],
+	dependencies: [
+		"30471506"
+	],
+	tasks: [{
+		uid: "f27605c8",
+		type: "item",
+		items: [{
+			item: "extracpus:crafting_storage_16384k"
+		}]
+	}],
+	rewards: [{
+		uid: "64b2a3e2",
+		type: "item",
+		item: "extracpus:crafting_storage_16384k"
+	}]
+}

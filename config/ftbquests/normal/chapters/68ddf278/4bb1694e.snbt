@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"c4a76f93"
+	],
+	tasks: [{
+		uid: "237a3f25",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 10"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "70780af9",
+		type: "ftbmoney:money",
+		ftb_money: 20L,
+		random_bonus: 20
+	}]
+}

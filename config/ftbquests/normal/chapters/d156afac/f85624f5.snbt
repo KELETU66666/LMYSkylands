@@ -1,0 +1,22 @@
+{
+	title: "ae网络的口和手",
+	x: 0.0d,
+	y: -2.0d,
+	description: "无肢不行",
+	dependencies: [
+		"fb3c2bbb"
+	],
+	tasks: [{
+		uid: "6f3c087b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:interface"
+		}]
+	}],
+	rewards: [{
+		uid: "6899f506",
+		type: "item",
+		item: "appliedenergistics2:interface",
+		count: 8
+	}]
+}

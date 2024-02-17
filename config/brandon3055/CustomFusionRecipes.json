@@ -1,0 +1,353 @@
+[    
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaos_crystal_stable",
+        "catalyst": "draconicevolution:chaos_shard",
+        "ingredients": [
+              "draconicevolution:chaos_shard",
+              "draconicevolution:chaos_shard",
+              "draconicevolution:chaos_shard",
+              "draconicevolution:chaos_shard"
+      ]
+    },
+    {
+    "mode": "REMOVE",
+    "result": "draconicadditions:chaotic_staff_of_power",
+    "catalyst": "draconicevolution:draconic_staff_of_power",
+    "ingredients": [
+          "draconicevolution:chaos_shard:1",
+          "draconicevolution:chaos_shard:1",
+          "draconicevolution:chaos_shard:1",
+          "draconicevolution:chaos_shard:1",
+          "draconicevolution:chaotic_core",
+          "draconicadditions:chaotic_energy_core"
+  ]
+    },
+    {
+           "mode": "REMOVE",
+           "result": "draconicadditions:chaotic_helm",
+           "catalyst": "draconicevolution:draconic_helm",
+           "ingredients": [
+				 "draconicevolution:chaotic_core",
+				 "draconicadditions:chaotic_energy_core",
+				 "draconicevolution:infused_obsidian",
+				 "draconicevolution:infused_obsidian"
+         ]
+    },
+	{
+           "mode": "REMOVE",
+           "result": "draconicadditions:chaotic_chest",
+           "catalyst": "draconicevolution:draconic_chest",
+           "ingredients": [
+				 "draconicevolution:chaotic_core",
+				 "draconicadditions:chaotic_energy_core",
+				 "draconicevolution:infused_obsidian",
+				 "draconicevolution:infused_obsidian"
+         ]
+    },
+	{
+           "mode": "REMOVE",
+           "result": "draconicadditions:chaotic_legs",
+           "catalyst": "draconicevolution:draconic_legs",
+           "ingredients": [
+			                 "draconicevolution:chaotic_core",
+				 "draconicadditions:chaotic_energy_core",
+				 "draconicevolution:infused_obsidian",
+				 "draconicevolution:infused_obsidian"
+         ]
+    },
+	{
+           "mode": "REMOVE",
+           "result": "draconicadditions:chaotic_boots",
+           "catalyst": "draconicevolution:draconic_boots",
+           "ingredients": [
+                 "draconicevolution:chaotic_core",
+				 "draconicadditions:chaotic_energy_core",
+				 "draconicevolution:infused_obsidian",
+				 "draconicevolution:infused_obsidian"
+         ]
+    },
+{
+           "mode": "REMOVE",
+           "result": "draconicadditions:chaotic_bow",
+           "catalyst": "draconicevolution:draconic_bow",
+           "ingredients": [
+                 "draconicevolution:chaotic_core",
+				 "draconicadditions:chaotic_energy_core",
+				 "<draconicevolution:chaos_shard:1>",
+				 "<draconicevolution:chaos_shard:1>",
+				 "<draconicevolution:chaos_shard:1>",
+				 "<draconicevolution:chaos_shard:1>"
+         ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "tconevo:metal,1,10",
+        "catalyst": "tconevo:material",
+        "ingredients": [
+              "draconicevolution:chaotic_core",
+              "draconicevolution:draconic_energy_core",
+              "minecraft:dragon_egg",
+              "minecraft:dragon_egg"
+      ]
+ },
+ {
+    "mode": "REMOVE",
+    "result": "tconevo:metal,1,5",
+    "catalyst": "tconevo:material",
+    "ingredients": [
+          "draconicevolution:awakened_core",
+          "draconicevolution:wyvern_energy_core",
+          "minecraft:nether_star"
+  ]
+},
+{
+    "mode": "REMOVE",
+    "result": "tconevo:metal",
+    "catalyst": "tconevo:material",
+    "ingredients": [
+          "draconicevolution:wyvern_core",
+          "ore:blockRedstone",
+          "ore:gemDiamond"
+  ]
+},
+ {
+    "mode": "ADD",
+    "result": "tconevo:metal",
+    "catalyst": "tconevo:material",
+    "energy": 100000000,
+    "tier": 0,
+    "ingredients": [
+          "draconicevolution:draconic_core",
+          "draconicevolution:draconic_core",
+          "draconicevolution:draconic_core",
+          "draconicevolution:draconic_core",
+          "draconicevolution:draconium_ingot",
+          "draconicevolution:draconium_ingot",
+          "draconicevolution:draconium_ingot",
+          "draconicevolution:draconium_ingot"
+  ]
+},
+{
+   "mode": "ADD",
+   "result": "tconevo:metal,1,5",
+   "catalyst": "tconevo:material",
+   "energy": 100000000,
+   "tier": 1,
+   "ingredients": [
+         "draconicevolution:awakened_core",
+         "draconicevolution:awakened_core",
+         "draconicevolution:awakened_core",
+         "draconicevolution:awakened_core",
+         "draconicevolution:draconic_ingot",
+         "draconicevolution:draconic_ingot",
+         "draconicevolution:draconic_ingot",
+         "draconicevolution:draconic_ingot"
+ ]
+},
+{
+   "mode": "ADD",
+   "result": "tconevo:metal,1,10",
+   "catalyst": "tconevo:material",
+   "energy": 100000000,
+   "tier": 2,
+   "ingredients": [
+         "draconicevolution:chaotic_core",
+         "draconicevolution:chaotic_core",
+         "draconicevolution:chaos_shard",
+         "draconicevolution:chaos_shard"
+ ]
+},
+{
+            "mode": "ADD",
+                "result": "draconicadditions:chaotic_staff_of_power", 
+                "catalyst": "draconicevolution:draconic_staff_of_power",
+                "energy": 10000000000,
+                "tier": 3 ,
+                "ingredients": [
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "avaritia:resource,1,5", 
+                    "environmentaltech:aethium", 
+                    "environmentaltech:aethium", 
+                    "extracells:storage.component,1,3", 
+                    "extracells:storage.component,1,3"
+                ]
+        },
+{
+            "mode": "ADD",
+                "result": "draconicadditions:chaotic_bow", 
+                "catalyst": "draconicevolution:draconic_bow",
+                "energy": 10000000000,
+                "tier": 3 ,
+                "ingredients": [
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "avaritia:resource,1,5", 
+                    "environmentaltech:aethium", 
+                    "environmentaltech:aethium", 
+                    "extracells:storage.component,1,3", 
+                    "extracells:storage.component,1,3"
+                ]
+        },
+{
+            "mode": "ADD",
+                "result": "draconicadditions:chaotic_chest", 
+                "catalyst": "draconicevolution:draconic_chest",
+                "energy": 10000000000,
+                "tier": 3 ,
+                "ingredients": [
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "avaritia:resource,1,5", 
+                    "environmentaltech:aethium", 
+                    "environmentaltech:aethium", 
+                    "extracells:storage.component,1,3", 
+                    "extracells:storage.component,1,3"
+                ]
+        },
+{
+            "mode": "ADD",
+                "result": "draconicadditions:chaotic_legs", 
+                "catalyst": "draconicevolution:draconic_legs",
+                "energy": 10000000000,
+                "tier": 3 ,
+                "ingredients": [
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "avaritia:resource,1,5", 
+                    "environmentaltech:aethium", 
+                    "environmentaltech:aethium", 
+                    "extracells:storage.component,1,3", 
+                    "extracells:storage.component,1,3"
+                ]
+        },
+{
+            "mode": "ADD",
+                "result": "draconicadditions:chaotic_boots", 
+                "catalyst": "draconicevolution:draconic_boots",
+                "energy": 10000000000,
+                "tier": 3 ,
+                "ingredients": [
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "avaritia:resource,1,5", 
+                    "environmentaltech:aethium", 
+                    "environmentaltech:aethium", 
+                    "extracells:storage.component,1,3", 
+                    "extracells:storage.component,1,3"
+                ]
+        },
+{
+            "mode": "ADD",
+                "result": "draconicadditions:chaotic_helm", 
+                "catalyst": "draconicevolution:draconic_helm",
+                "energy": 10000000000,
+                "tier": 3 ,
+                "ingredients": [
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal,1,14", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "tconevo:metal_block,1,2", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "draconicevolution:crafting_injector,1,3", 
+                    "avaritia:resource,1,5", 
+                    "environmentaltech:aethium", 
+                    "environmentaltech:aethium", 
+                    "extracells:storage.component,1,3", 
+                    "extracells:storage.component,1,3"
+                ]
+        },
+        {
+               "mode": "REMOVE",
+               "result": "draconicevolution:draconic_block,4",
+               "catalyst": "draconicevolution:draconium_block,4",
+               "ingredients": [
+                "draconicevolution:draconic_core",
+                "draconicevolution:draconic_core",
+                "draconicevolution:draconic_core",
+                "draconicevolution:draconic_core",
+                "draconicevolution:draconic_core",
+                "draconicevolution:draconic_core",
+                "<draconicevolution:dragon_heart"
+             ]
+        },
+        {
+           "mode": "ADD",
+           "result": "tconevo:metal,4",
+           "catalyst": "tconevo:material",
+           "energy": 100000000,
+           "tier": 3,
+           "ingredients": [
+                 "draconicevolution:draconic_core",
+                 "draconicevolution:chaos_shard",
+                 "draconicevolution:chaos_shard",
+                 "draconicevolution:chaos_shard"
+
+         ]
+       },
+       {
+          "mode": "ADD",
+          "result": "tconevo:metal,4,5",
+          "catalyst": "tconevo:material",
+          "energy": 100000000,
+          "tier": 3,
+          "ingredients": [
+                "draconicevolution:awakened_core",
+                "draconicevolution:chaos_shard",
+                "draconicevolution:chaos_shard",
+                "draconicevolution:chaos_shard"
+        ]
+       },
+       {
+          "mode": "ADD",
+          "result": "tconevo:metal,4,10",
+          "catalyst": "tconevo:material",
+          "energy": 100000000,
+          "tier": 3,
+          "ingredients": [
+                "draconicevolution:chaotic_core",
+                "draconicevolution:chaos_shard",
+                "draconicevolution:chaos_shard",
+                "draconicevolution:chaos_shard"
+        ]
+       }
+]

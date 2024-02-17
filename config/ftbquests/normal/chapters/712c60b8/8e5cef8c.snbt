@@ -1,0 +1,28 @@
+{
+	title: "你也是一坨,速度快但还鸡掰是实体传输",
+	x: -4.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "e8d5c2b3",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			Damage: 3s,
+			tag: {
+				tier: 0
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "75f61b83",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			Damage: 3s,
+			tag: {
+				tier: 0
+			}
+		},
+		count: 64
+	}]
+}

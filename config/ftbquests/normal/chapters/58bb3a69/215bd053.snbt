@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	description: "对准线缆右键即可升级",
+	dependencies: [
+		"c5756c6d"
+	],
+	tasks: [{
+		uid: "5ac120a7",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "4f637c33",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

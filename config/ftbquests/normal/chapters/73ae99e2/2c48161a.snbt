@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"3821bb5a"
+	],
+	tasks: [{
+		uid: "78604381",
+		type: "item",
+		items: [{
+			id: "astralsorcery:itemskyresonator",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	title: "究极神中神",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"ae教程:BV1zJ411U7Mg",
+		"ae教程:BV1BE411t731",
+		"内含nee你可以使用Ctrl+标滚轮来在样板终端/ME接口修改样板或用来标记的物品数量",
+		"你可以使用Shift+鼠标滚轮来选择材料(鼠标放在对应物品上)",
+		"你可以在合成终端打开NEI/JEI配方界面使用Ctrl+左键点击[?]/[+]来请求缺失但可有自动合成的物品(支持WCT无线合成终端)",
+		"它允许你直接使用NEI物品管理器/ENJE物品管理器的转移功能来将配方写入样板终端,而不是像AE2那样需要网络里面存储有或者玩家身上有对应物品，并支持处理样板.",
+		"会自动合并同类物品,根据配方来自动切换终端模式。"
+	],
+	tasks: [{
+		uid: "cb220fcd",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 23"
+		}]
+	},
+	{
+		uid: "a09af147",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 24"
+		}]
+	},
+	{
+		uid: "6920fdad",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 22"
+		}]
+	}],
+	rewards: [{
+		uid: "bc69da80",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

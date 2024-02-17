@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"使用装配杆可一键搭建,如果拆不掉方块请右键控制器一下"
+	],
+	dependencies: [
+		"45d9b15d",
+		"fb3c2bbb"
+	],
+	tasks: [{
+		uid: "88c02ec3",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "6b588f8e",
+		type: "item",
+		item: "environmentaltech:litherite_crystal",
+		count: 8
+	}]
+}

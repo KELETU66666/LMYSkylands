@@ -1,0 +1,27 @@
+[
+  {
+    "id": "overworldian",
+    "displayName": "overworldian",
+    "displayColor": "green",
+    "xpValue": 1000
+  },
+  {
+    "id": "hellish",
+    "displayName": "hellish",
+    "displayColor": "red",
+    "xpValue": 1400
+  },
+  {
+    "id": "extraterrestrial",
+    "displayName": "extraterrestrial",
+    "displayColor": "light_purple",
+    "xpValue": 20000
+  },
+  {
+    "id": "twilight",
+    "mod": "twilightforest",
+    "displayName": "twilight",
+    "displayColor": "blue",
+    "xpValue": 3000
+  }
+]

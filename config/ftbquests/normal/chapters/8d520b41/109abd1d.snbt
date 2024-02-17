@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	description: "好用!吗?",
+	dependencies: [
+		"4d72a3f5"
+	],
+	tasks: [{
+		uid: "b3eb7859",
+		type: "item",
+		items: [{
+			item: "modularmachinery:huaduo_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "a6f93490",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

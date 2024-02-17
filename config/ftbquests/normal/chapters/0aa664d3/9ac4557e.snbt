@@ -1,0 +1,24 @@
+{
+	title: "开启fly",
+	x: 0.0d,
+	y: -4.0d,
+	shape: "square",
+	can_repeat: true,
+	tasks: [{
+		uid: "26c8e0a8",
+		type: "checkmark",
+		icon: {
+			id: "extrautils2:angelring",
+			Damage: 2s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}],
+	rewards: [{
+		uid: "43126010",
+		type: "command",
+		command: "/fly",
+		player_command: true
+	}]
+}

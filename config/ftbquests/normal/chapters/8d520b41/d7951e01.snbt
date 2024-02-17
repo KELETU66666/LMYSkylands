@@ -1,0 +1,36 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"为魔力液化器提供持续的红石信号将魔力转化为液态魔力，每100mb输出一次，需要将液体储罐(如ae流体接口,mek液体储罐等)贴着四个侧面放置",
+		"用魔力发射器或火花为魔力液化器输入魔力"
+	],
+	dependencies: [
+		"da74fbdb"
+	],
+	tasks: [{
+		uid: "6b40efb7",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "fluidedmana",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2b22c674",
+		type: "item",
+		items: [{
+			item: "extrabotany:manaliquefaction"
+		}]
+	}],
+	rewards: [{
+		uid: "ff5afe5d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

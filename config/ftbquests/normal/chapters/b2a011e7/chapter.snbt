@@ -1,0 +1,10 @@
+{
+	title: "[特殊章]环境科技",
+	icon: "environmentaltech:aethium_crystal",
+	description: [
+		"(真主线)"
+	],
+	always_invisible: false,
+	group: 1552465683,
+	default_quest_shape: ""
+}

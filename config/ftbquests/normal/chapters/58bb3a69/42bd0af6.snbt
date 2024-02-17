@@ -1,0 +1,56 @@
+{
+	title: "乙烯套件",
+	icon: "mekanism:polyethene",
+	x: -2.0d,
+	y: -6.0d,
+	text: [
+		"园艺玻璃罩种西瓜,压缩抽屉分解成西瓜片"
+	],
+	dependencies: [
+		"ff27fa70"
+	],
+	tasks: [{
+		uid: "38a140e0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 13"
+		}]
+	},
+	{
+		uid: "205b1be4",
+		type: "item",
+		items: [{
+			item: "storagedrawers:compdrawers"
+		}]
+	},
+	{
+		uid: "2bd4e5ca",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "54253b49",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 4"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "faafe00d",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 10"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5e2cbbd0",
+		type: "item",
+		item: "mekanism:polyethene",
+		count: 128
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"c1074dde"
+	],
+	tasks: [{
+		uid: "ce2bcc40",
+		type: "item",
+		items: [{
+			item: "packagedexcrafting:advanced_crafter"
+		}]
+	}]
+}

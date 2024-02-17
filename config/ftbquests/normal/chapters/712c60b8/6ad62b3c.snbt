@@ -1,0 +1,18 @@
+{
+	title: "你说得对,但是...",
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "3c04ae5b",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8c9a10ce",
+		type: "item",
+		item: "mekanism:machineblock3"
+	}]
+}

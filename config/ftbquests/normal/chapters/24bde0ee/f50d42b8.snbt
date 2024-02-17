@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	dependencies: [
+		"0c6d301c",
+		"45d755fd"
+	],
+	tasks: [{
+		uid: "2e237afb",
+		type: "item",
+		items: [{
+			item: "draconicevolution:awakened_core"
+		}]
+	}]
+}

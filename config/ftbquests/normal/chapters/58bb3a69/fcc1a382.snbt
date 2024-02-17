@@ -1,0 +1,26 @@
+{
+	title: "好液!",
+	x: -2.0d,
+	y: -8.0d,
+	dependencies: [
+		"8ea45d72"
+	],
+	tasks: [{
+		uid: "b1b752e0",
+		type: "item",
+		items: [{
+			item: "modularmachinery:dianzi_fengzhuang_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "8ffdb110",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "lmydianzifengzhuangye1",
+				Amount: 1000
+			}
+		}
+	}]
+}

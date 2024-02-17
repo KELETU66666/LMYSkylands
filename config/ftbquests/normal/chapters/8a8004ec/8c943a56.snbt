@@ -1,0 +1,34 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"1ab46d89"
+	],
+	tasks: [{
+		uid: "1a0994a1",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			Damage: 6s,
+			tag: {
+				Facing: 3b,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				RSControl: 0b,
+				Energy: 0,
+				Level: 0b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "dcd1b6be",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

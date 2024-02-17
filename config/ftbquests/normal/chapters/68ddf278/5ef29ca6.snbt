@@ -1,0 +1,24 @@
+{
+	x: 5.0d,
+	y: -4.0d,
+	text: [
+		"玩沉浸不得不品鉴的一环"
+	],
+	dependencies: [
+		"4753700b"
+	],
+	tasks: [{
+		uid: "d1f9a052",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "ce44a404",
+		type: "item",
+		item: "immersiveengineering:stone_decoration",
+		count: 27
+	}]
+}

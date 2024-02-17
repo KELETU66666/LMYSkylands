@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	dependencies: [
+		"215bd053"
+	],
+	tasks: [{
+		uid: "e3855f2e",
+		type: "item",
+		items: [{
+			item: "mekanism:reinforcedalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "9d322f5c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

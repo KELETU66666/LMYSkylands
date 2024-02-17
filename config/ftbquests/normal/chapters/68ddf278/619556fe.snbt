@@ -1,0 +1,39 @@
+{
+	x: -5.0d,
+	y: -6.0d,
+	description: "开钩！",
+	dependencies: [
+		"ed7280c0"
+	],
+	tasks: [{
+		uid: "5049e5a8",
+		type: "item",
+		items: [{
+			id: "excompressum:compressed_crook",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2842687d",
+		type: "item",
+		item: "exnihilocreatio:item_material 1 2",
+		count: 16
+	},
+	{
+		uid: "d0b3bfb2",
+		type: "item",
+		item: {
+			id: "exnihilocreatio:crook_diamond",
+			tag: {
+				Unbreakable: 1
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

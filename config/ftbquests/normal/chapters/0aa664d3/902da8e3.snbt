@@ -1,0 +1,48 @@
+{
+	title: "树苗",
+	x: 0.0d,
+	y: 2.5d,
+	description: "想种什么种什么",
+	text: [
+		"含有跳舞树苗！",
+		"穿白丝跳舞长得更快！！！！"
+	],
+	dependencies: [
+		"07aa743c"
+	],
+	tasks: [{
+		uid: "71318d0f",
+		type: "checkmark",
+		icon: "minecraft:sapling"
+	}],
+	rewards: [{
+		uid: "e9df5ff1",
+		type: "item",
+		item: "minecraft:sapling"
+	},
+	{
+		uid: "8e4436c0",
+		type: "item",
+		item: "minecraft:sapling 1 1"
+	},
+	{
+		uid: "0cc08e66",
+		type: "item",
+		item: "minecraft:sapling 1 2"
+	},
+	{
+		uid: "cedb08fc",
+		type: "item",
+		item: "minecraft:sapling 1 3"
+	},
+	{
+		uid: "07385a03",
+		type: "item",
+		item: "minecraft:sapling 1 4"
+	},
+	{
+		uid: "e90a94ce",
+		type: "item",
+		item: "minecraft:sapling 1 5"
+	}]
+}

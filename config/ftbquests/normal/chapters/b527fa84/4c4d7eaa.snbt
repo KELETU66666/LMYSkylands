@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	dependencies: [
+		"96112097"
+	],
+	tasks: [{
+		uid: "eb49d9a1",
+		type: "checkmark",
+		title: "奇点自动化示例"
+	}]
+}

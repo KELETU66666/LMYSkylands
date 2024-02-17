@@ -1,0 +1,17 @@
+{
+	title: "大赌伤身",
+	x: 1.0d,
+	y: 6.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "eb78dd1e",
+		type: "ftbmoney:money",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "a1d4a619",
+		type: "ftbmoney:money",
+		ftb_money: 0L,
+		random_bonus: 1888
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 9.0d,
+	y: -2.0d,
+	text: [
+		"汇聚的液态魔力以及夜晚的奇妙能量似乎能改变它的性质"
+	],
+	dependencies: [
+		"cba1e416"
+	],
+	tasks: [{
+		uid: "2c80cd9c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:moli_huiju_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "df7206ac",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

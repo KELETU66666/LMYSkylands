@@ -1,0 +1,26 @@
+{
+	x: 0.0d,
+	y: -8.0d,
+	text: [
+		"推荐制作出创造模式模型学习器后再搓(先搓也不是不能搓,是吧)"
+	],
+	dependencies: [
+		"e1900700",
+		"148930cb",
+		"321e1c52",
+		"1932d08c"
+	],
+	tasks: [{
+		uid: "85706047",
+		type: "item",
+		items: [{
+			item: "environmentaltech:ionite_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "f900ba6f",
+		type: "item",
+		item: "environmentaltech:ionite_crystal",
+		count: 8
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -5.0d,
+	dependencies: [
+		"328a7f51"
+	],
+	tasks: [{
+		uid: "569d4aed",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard 1 2"
+		}],
+		count: 3L
+	}]
+}

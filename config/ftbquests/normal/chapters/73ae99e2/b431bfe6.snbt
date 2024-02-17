@@ -1,0 +1,203 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"",
+		"手持星芒宝典shift右键可打开gui,可放置星图"
+	],
+	dependencies: [
+		"c5756c6d"
+	],
+	tasks: [{
+		uid: "3071d973",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomsandore"
+		}]
+	}],
+	rewards: [{
+		uid: "38c922d9",
+		type: "item",
+		item: {
+			id: "thermalexpansion:satchel",
+			Damage: 4s,
+			tag: {
+				Accessible: 1b,
+				RepairCost: 1,
+				Inventory: {
+					Slot0: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.horologium"
+							}
+						}
+					},
+					Slot1: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {}
+						}
+					},
+					Slot10: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.bootes"
+							}
+						}
+					},
+					Slot11: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.fornax"
+							}
+						}
+					},
+					Slot12: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.pelotrio"
+							}
+						}
+					},
+					Slot13: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.gelu"
+							}
+						}
+					},
+					Slot14: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.ulteria"
+							}
+						}
+					},
+					Slot15: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.alcara"
+							}
+						}
+					},
+					Slot16: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.vorux"
+							}
+						}
+					},
+					Slot2: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.discidia"
+							}
+						}
+					},
+					Slot3: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.armara"
+							}
+						}
+					},
+					Slot4: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.vicio"
+							}
+						}
+					},
+					Slot5: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.aevitas"
+							}
+						}
+					},
+					Slot6: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.evorsio"
+							}
+						}
+					},
+					Slot7: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.lucerna"
+							}
+						}
+					},
+					Slot8: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.mineralis"
+							}
+						}
+					},
+					Slot9: {
+						Count: 1b,
+						Damage: 0s,
+						id: "astralsorcery:itemconstellationpaper",
+						tag: {
+							astralsorcery: {
+								constellationName: "astralsorcery.constellation.octans"
+							}
+						}
+					}
+				},
+				display: {
+					Name: "所有星图"
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "contenttweaker:items/infinity16",
+    "layer1": "contenttweaker:items/plate_rainbow_pro",
+    "layer2": "contenttweaker:items/plate_null"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	text: [
+		"拥有足以破坏护盾的力量,果然得用魔法击败魔法,不过应该还能再进一步"
+	],
+	dependencies: [
+		"ac884014"
+	],
+	tasks: [{
+		uid: "ebdc416e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmyjingtimolihexing"
+		}]
+	}]
+}

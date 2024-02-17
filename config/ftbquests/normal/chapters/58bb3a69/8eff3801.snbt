@@ -1,0 +1,30 @@
+{
+	x: 2.0d,
+	y: -0.5d,
+	text: [
+		"配合时运25可无限刷大部分矿物"
+	],
+	dependencies: [
+		"c5756c6d"
+	],
+	tasks: [{
+		uid: "8c888eae",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 53s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bc1c2039",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

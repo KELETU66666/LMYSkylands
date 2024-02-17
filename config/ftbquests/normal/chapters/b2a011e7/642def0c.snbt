@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: -12.0d,
+	text: [
+		"发电量已改",
+		"全6级发电量约185MRF/tick"
+	],
+	dependencies: [
+		"e9260709"
+	],
+	tasks: [{
+		uid: "2b704717",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_6"
+		}]
+	}]
+}

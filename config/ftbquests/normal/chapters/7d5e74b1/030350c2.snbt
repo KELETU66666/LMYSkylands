@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	dependencies: [
+		"14850ee9",
+		"4e26da25"
+	],
+	tasks: [{
+		uid: "4af920a9",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxcontroller"
+		}]
+	}]
+}

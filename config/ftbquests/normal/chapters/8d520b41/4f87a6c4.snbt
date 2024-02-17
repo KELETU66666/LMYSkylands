@@ -1,0 +1,28 @@
+{
+	x: 6.0d,
+	y: 0.5d,
+	description: "就在这里发电!",
+	text: [
+		"善用这个能量立方"
+	],
+	dependencies: [
+		"fd3e557b"
+	],
+	tasks: [{
+		uid: "44c2678c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:rechuandao_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "0c22b62e",
+		type: "item",
+		item: {
+			id: "mekanism:energycube",
+			tag: {
+				tier: 3
+			}
+		}
+	}]
+}

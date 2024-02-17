@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -10.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ffcb4d32",
+		type: "fluid",
+		fluid: "liquidlithium",
+		amount: 15000
+	}],
+	rewards: [{
+		uid: "0cd98e9e",
+		type: "ftbmoney:money",
+		ftb_money: 3L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	description: "盖亚缴械已关,请尽情蹂躏盖亚吧!",
+	dependencies: [
+		"fd3e557b"
+	],
+	tasks: [{
+		uid: "41a9e706",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 14"
+		}]
+	}],
+	rewards: [{
+		uid: "af107ac5",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

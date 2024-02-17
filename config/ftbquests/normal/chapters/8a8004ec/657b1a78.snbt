@@ -1,0 +1,41 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	dependencies: [
+		"42ca0167",
+		"282d5c2f"
+	],
+	tasks: [{
+		uid: "0e0c0eae",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 129"
+		}]
+	},
+	{
+		uid: "d02ee6e8",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 130"
+		}]
+	},
+	{
+		uid: "60dd4969",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 131"
+		}]
+	},
+	{
+		uid: "9281340b",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 132"
+		}]
+	}],
+	rewards: [{
+		uid: "21f55967",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

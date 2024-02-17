@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: -2.0d,
+	description: "植物魔法!堂堂完结！?",
+	dependencies: [
+		"b261d947",
+		"109abd1d"
+	],
+	tasks: [{
+		uid: "1d99b278",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "entropinnyum"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "de9a887a",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 40
+	}]
+}

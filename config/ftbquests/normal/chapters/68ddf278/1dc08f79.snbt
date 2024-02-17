@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: -8.0d,
+	description: "可以筛压缩方块！",
+	dependencies: [
+		"15dee4d4"
+	],
+	tasks: [{
+		uid: "346ad116",
+		type: "item",
+		items: [{
+			item: "excompressum:heavy_sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "572c0960",
+		type: "ftbmoney:money",
+		ftb_money: 10L,
+		random_bonus: 50
+	}]
+}

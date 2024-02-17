@@ -1,0 +1,24 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	text: [
+		"星辉商店可购买聚能水晶，单个多方块结构聚能水晶即可白天满星能"
+	],
+	dependencies: [
+		"3821bb5a"
+	],
+	tasks: [{
+		uid: "ee9b24b3",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockaltar 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2be231ec",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

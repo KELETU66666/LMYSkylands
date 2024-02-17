@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"1b5c04dd",
+		"b568200f"
+	],
+	tasks: [{
+		uid: "67bc49f6",
+		type: "item",
+		items: [{
+			item: "mets:niobium_titanium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "ad12a400",
+		type: "item",
+		item: "mets:niobium_titanium_ingot",
+		count: 8
+	}]
+}

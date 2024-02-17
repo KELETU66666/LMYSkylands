@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: -6.0d,
+	dependencies: [
+		"83c022a4",
+		"672f816a",
+		"d2e137fe"
+	],
+	tasks: [{
+		uid: "e8b99a6a",
+		type: "item",
+		items: [{
+			item: "minecraft:clay"
+		}]
+	}],
+	rewards: [{
+		uid: "4d7e8176",
+		type: "item",
+		item: "minecraft:clay",
+		count: 64
+	}]
+}

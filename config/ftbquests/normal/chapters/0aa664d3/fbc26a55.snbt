@@ -1,0 +1,453 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	description: "主打的就是一个爽！",
+	text: [
+		"匠魂盔甲请不要进行强化等行为,否则会清空效果"
+	],
+	dependencies: [
+		"07aa743c"
+	],
+	tasks: [{
+		uid: "5d0e2cf1",
+		type: "checkmark",
+		title: "建筑之杖",
+		icon: {
+			id: "extrautils2:itemcreativebuilderswand",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}],
+	rewards: [{
+		uid: "b8c4a717",
+		type: "item",
+		item: {
+			id: "extrautils2:itemcreativebuilderswand",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "5c5bff52",
+		type: "item",
+		item: {
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}
+	},
+	{
+		uid: "9be13fbb",
+		type: "item",
+		item: {
+			id: "modularmachinery:machine_projector",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 12296L,
+					AS_Amulet_HolderLeast: -7378489520670956954L
+				}
+			}
+		}
+	},
+	{
+		uid: "5aa331b9",
+		type: "item",
+		item: {
+			id: "conarm:helmet",
+			tag: {
+				Unbreakable: 1b,
+				ConArmEquipmentSlot: 5,
+				Modifiers: [{
+					color: -946192,
+					level: 5,
+					identifier: "invigorating_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "dense_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "tconevo.reactive_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "heavy_armor"
+				},
+				{
+					color: -12895429,
+					identifier: "extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor"
+				},
+				{
+					modifierUsed: 1b,
+					color: 16774902,
+					level: 10,
+					identifier: "resistant_armor"
+				},
+				{
+					color: -10066330,
+					identifier: "polished_armorchaotic_metal"
+				},
+				{
+					color: -11053225,
+					level: 1,
+					identifier: "tconevo.celestial_armor"
+				},
+				{
+					color: -1073509,
+					level: 1,
+					identifier: "tasty_armor"
+				}],
+				Traits: [
+					"invigorating_armor",
+					"dense_armor",
+					"tconevo.reactive_armor",
+					"heavy_armor",
+					"resistant_armor",
+					"tconevo.celestial_armor",
+					"tasty_armor"
+				],
+				Stats: {
+					Durability: 7542,
+					FreeModifiers: 2,
+					Defense: 17.1f,
+					Toughness: 27.0f
+				},
+				StatsOriginal: {
+					Durability: 7542,
+					FreeModifiers: 3,
+					Defense: 17.1f,
+					Toughness: 0.0f
+				},
+				TinkerData: {
+					UsedModifiers: 1,
+					Materials: [
+						"knightslime",
+						"mirion",
+						"knightslime"
+					],
+					Modifiers: [
+						"extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor",
+						"resistant_armor",
+						"polished_armorchaotic_metal"
+					]
+				}
+			}
+		}
+	},
+	{
+		uid: "44eca625",
+		type: "item",
+		item: {
+			id: "conarm:chestplate",
+			tag: {
+				Unbreakable: 1b,
+				ConArmEquipmentSlot: 4,
+				Modifiers: [{
+					color: -9240728,
+					level: 1,
+					identifier: "brownmagic"
+				},
+				{
+					color: -171,
+					level: 1,
+					identifier: "mana"
+				},
+				{
+					color: -946192,
+					level: 5,
+					identifier: "invigorating_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "dense_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "tconevo.reactive_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "heavy_armor"
+				},
+				{
+					color: -12895429,
+					identifier: "extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor"
+				},
+				{
+					modifierUsed: 1b,
+					color: 16774902,
+					level: 10,
+					identifier: "resistant_armor"
+				},
+				{
+					color: 6684672,
+					level: 1,
+					identifier: "dexterous_armor"
+				},
+				{
+					color: -10066330,
+					identifier: "polished_armorchaotic_metal"
+				},
+				{
+					color: -1073509,
+					level: 1,
+					identifier: "tasty_armor"
+				},
+				{
+					color: -11053225,
+					level: 1,
+					identifier: "tconevo.celestial_armor"
+				}],
+				Traits: [
+					"brownmagic",
+					"mana",
+					"invigorating_armor",
+					"dense_armor",
+					"tconevo.reactive_armor",
+					"heavy_armor",
+					"resistant_armor",
+					"dexterous_armor",
+					"tconevo.celestial_armor",
+					"tasty_armor"
+				],
+				Stats: {
+					Durability: 48240,
+					FreeModifiers: 1,
+					Defense: 49.5f,
+					Toughness: 27.0f
+				},
+				StatsOriginal: {
+					Durability: 48240,
+					FreeModifiers: 3,
+					Defense: 49.5f,
+					Toughness: 0.0f
+				},
+				TinkerData: {
+					UsedModifiers: 2,
+					Materials: [
+						"osgloglas",
+						"mirion",
+						"knightslime"
+					],
+					Modifiers: [
+						"extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor",
+						"resistant_armor",
+						"dexterous_armor",
+						"polished_armorchaotic_metal"
+					]
+				}
+			}
+		}
+	},
+	{
+		uid: "8938f701",
+		type: "item",
+		item: {
+			id: "conarm:leggings",
+			tag: {
+				Unbreakable: 1b,
+				ConArmEquipmentSlot: 3,
+				Modifiers: [{
+					color: -13048576,
+					level: 1,
+					identifier: "heavy_armor"
+				},
+				{
+					color: -13048576,
+					level: 2,
+					identifier: "tconevo.mana_affinity_armor"
+				},
+				{
+					color: -171,
+					level: 1,
+					identifier: "mana"
+				},
+				{
+					color: -946192,
+					level: 10,
+					identifier: "invigorating_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "dense_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "tconevo.reactive_armor"
+				},
+				{
+					color: -12895429,
+					identifier: "extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor"
+				},
+				{
+					modifierUsed: 1b,
+					color: 16774902,
+					level: 5,
+					identifier: "resistant_armor"
+				},
+				{
+					color: -10066330,
+					identifier: "polished_armorchaotic_metal"
+				},
+				{
+					color: -1073509,
+					level: 1,
+					identifier: "tasty_armor"
+				},
+				{
+					color: -11053225,
+					level: 1,
+					identifier: "tconevo.celestial_armor"
+				}],
+				Traits: [
+					"heavy_armor",
+					"tconevo.mana_affinity2_armor",
+					"mana",
+					"invigorating_armor",
+					"dense_armor",
+					"tconevo.reactive_armor",
+					"resistant_armor",
+					"tasty_armor",
+					"tconevo.celestial_armor"
+				],
+				Stats: {
+					Durability: 13079,
+					FreeModifiers: 2,
+					Defense: 21.0f,
+					Toughness: 27.0f
+				},
+				StatsOriginal: {
+					Durability: 13079,
+					FreeModifiers: 3,
+					Defense: 21.0f,
+					Toughness: 0.0f
+				},
+				TinkerData: {
+					UsedModifiers: 1,
+					Materials: [
+						"terrasteel",
+						"mirion",
+						"knightslime"
+					],
+					Modifiers: [
+						"extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor",
+						"resistant_armor",
+						"polished_armorchaotic_metal"
+					]
+				}
+			}
+		}
+	},
+	{
+		uid: "4dec4625",
+		type: "item",
+		item: {
+			id: "conarm:boots",
+			tag: {
+				Unbreakable: 1b,
+				ConArmEquipmentSlot: 2,
+				Modifiers: [{
+					color: -171,
+					level: 1,
+					identifier: "mana"
+				},
+				{
+					color: -946192,
+					level: 5,
+					identifier: "invigorating_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "dense_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "tconevo.reactive_armor"
+				},
+				{
+					color: -12895429,
+					level: 1,
+					identifier: "heavy_armor"
+				},
+				{
+					color: -12895429,
+					identifier: "extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor"
+				},
+				{
+					modifierUsed: 1b,
+					color: 16774902,
+					level: 10,
+					identifier: "resistant_armor"
+				},
+				{
+					color: -10066330,
+					identifier: "polished_armorchaotic_metal"
+				},
+				{
+					color: -1073509,
+					level: 1,
+					identifier: "tasty_armor"
+				},
+				{
+					color: -11053225,
+					level: 1,
+					identifier: "tconevo.celestial_armor"
+				}],
+				Traits: [
+					"mana",
+					"invigorating_armor",
+					"dense_armor",
+					"tconevo.reactive_armor",
+					"heavy_armor",
+					"resistant_armor",
+					"tasty_armor",
+					"tconevo.celestial_armor"
+				],
+				Stats: {
+					Durability: 11335,
+					FreeModifiers: 2,
+					Defense: 16.0f,
+					Toughness: 27.0f
+				},
+				StatsOriginal: {
+					Durability: 11335,
+					FreeModifiers: 3,
+					Defense: 16.0f,
+					Toughness: 0.0f
+				},
+				TinkerData: {
+					UsedModifiers: 1,
+					Materials: [
+						"carbon_fiber",
+						"mirion",
+						"knightslime"
+					],
+					Modifiers: [
+						"extratraitneutroniumdense_armorheavy_armortconevo.reactive_armor_armor",
+						"resistant_armor",
+						"polished_armorchaotic_metal"
+					]
+				}
+			}
+		}
+	},
+	{
+		uid: "c4ce8b64",
+		type: "item",
+		item: "immersivepetroleum:schematic"
+	}]
+}

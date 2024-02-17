@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -10.0d,
+	dependencies: [
+		"e1900700",
+		"148930cb",
+		"1741634b",
+		"321e1c52",
+		"1932d08c"
+	],
+	tasks: [{
+		uid: "305816e0",
+		type: "item",
+		items: [{
+			item: "environmentaltech:aethium_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "0b83389a",
+		type: "item",
+		item: "environmentaltech:aethium_crystal",
+		count: 8
+	}]
+}

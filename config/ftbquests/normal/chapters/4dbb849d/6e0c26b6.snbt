@@ -1,0 +1,22 @@
+{
+	title: "好东西,裸身拿能获得无限饱食buff",
+	x: 0.0d,
+	y: -6.0d,
+	shape: "pentagon",
+	dependencies: [
+		"189f800c"
+	],
+	tasks: [{
+		uid: "02628770",
+		type: "item",
+		items: [{
+			item: "ic2:uranium_fuel_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "7f00ef8a",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

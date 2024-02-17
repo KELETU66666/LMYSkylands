@@ -1,0 +1,24 @@
+{
+	title: "盖亚!",
+	x: 4.0d,
+	y: 4.5d,
+	text: [
+		"拥有比魔力绿宝石更强的魔力容纳性,不过性质和魔力绿宝石相似,应该想办法改变它的性质"
+	],
+	dependencies: [
+		"b578ae2d"
+	],
+	tasks: [{
+		uid: "db7902f0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmygaiyalvbaoshi"
+		}]
+	}],
+	rewards: [{
+		uid: "87c5be40",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

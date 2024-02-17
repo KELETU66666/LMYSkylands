@@ -1,0 +1,30 @@
+{
+	title: "啊?",
+	x: 1.0d,
+	y: 0.0d,
+	description: "导...导线吗?",
+	dependencies: [
+		"c5756c6d"
+	],
+	tasks: [{
+		uid: "15c338db",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "307b7f9b",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 3
+			}
+		},
+		count: 64
+	}]
+}

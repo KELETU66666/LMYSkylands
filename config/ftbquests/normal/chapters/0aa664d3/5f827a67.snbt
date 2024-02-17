@@ -1,0 +1,17 @@
+{
+	title: "小赌怡情",
+	x: -3.0d,
+	y: 6.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "fee986ee",
+		type: "ftbmoney:money",
+		value: 50L
+	}],
+	rewards: [{
+		uid: "658c1bb0",
+		type: "ftbmoney:money",
+		ftb_money: 0L,
+		random_bonus: 100
+	}]
+}

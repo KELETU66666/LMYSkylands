@@ -1,0 +1,22 @@
+{
+	title: "ლ(´ڡ`ლ)",
+	x: -2.0d,
+	y: -4.0d,
+	description: "好吃!",
+	dependencies: [
+		"eec9f068"
+	],
+	tasks: [{
+		uid: "d431ce10",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_end_cake"
+		}]
+	}],
+	rewards: [{
+		uid: "36a40408",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

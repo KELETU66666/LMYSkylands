@@ -1,0 +1,20 @@
+{
+	title: "超级快!",
+	x: 8.0d,
+	y: -7.5d,
+	dependencies: [
+		"c0addd7d"
+	],
+	tasks: [{
+		uid: "0a23cff4",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_stellar"
+		}]
+	}],
+	rewards: [{
+		uid: "ed90ab1e",
+		type: "item",
+		item: "enderio:item_capacitor_stellar"
+	}]
+}

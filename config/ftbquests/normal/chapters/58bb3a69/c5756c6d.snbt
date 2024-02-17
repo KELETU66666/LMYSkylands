@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	description: "一切的开始!",
+	dependencies: [
+		"31a14210"
+	],
+	tasks: [{
+		uid: "98410692",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 8"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "24457a51",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

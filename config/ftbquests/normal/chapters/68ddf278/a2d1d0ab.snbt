@@ -1,0 +1,24 @@
+{
+	title: "啊紫一，啊紫一哟。",
+	x: 4.0d,
+	y: -3.0d,
+	text: [
+		"5000倍速度！"
+	],
+	dependencies: [
+		"4753700b",
+		"15df7aa9"
+	],
+	tasks: [{
+		uid: "2f75cb1c",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_crucible 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "5d50984c",
+		type: "item",
+		item: "environmentaltech:thermal_cell"
+	}]
+}

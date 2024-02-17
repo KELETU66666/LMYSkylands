@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	description: "对...对吗?啊对的对的对的",
+	dependencies: [
+		"83c022a4",
+		"58b708b8"
+	],
+	tasks: [{
+		uid: "be41ef9a",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

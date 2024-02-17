@@ -1,0 +1,63 @@
+{
+	icon: "botania:manaresource 1 4",
+	x: 6.0d,
+	y: 2.5d,
+	dependencies: [
+		"1f2656f0",
+		"6448e4ae"
+	],
+	tasks: [{
+		uid: "40119cad",
+		type: "item",
+		items: [{
+			item: "botania:manaresource"
+		}]
+	},
+	{
+		uid: "120d09bb",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 1"
+		}]
+	},
+	{
+		uid: "b85c14c9",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	},
+	{
+		uid: "f9e90928",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 23"
+		}]
+	},
+	{
+		uid: "33e4be54",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 19"
+		}]
+	},
+	{
+		uid: "3f0d8def",
+		type: "item",
+		items: [{
+			item: "tconevo:material"
+		}]
+	},
+	{
+		uid: "823be540",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 27"
+		}]
+	}],
+	rewards: [{
+		uid: "50e667a1",
+		type: "item",
+		item: "botania:manaresource 1 4"
+	}]
+}

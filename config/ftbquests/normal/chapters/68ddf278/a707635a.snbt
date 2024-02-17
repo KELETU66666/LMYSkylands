@@ -1,0 +1,19 @@
+{
+	x: -8.5d,
+	y: -4.0d,
+	dependencies: [
+		"f0580e6a"
+	],
+	tasks: [{
+		uid: "3d510414",
+		type: "item",
+		items: [{
+			item: "modularmachinery:daxing_fensui_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "76d8a4b0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

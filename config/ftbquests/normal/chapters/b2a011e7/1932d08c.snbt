@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	dependencies: [
+		"e1900700",
+		"05889430",
+		"148930cb",
+		"321e1c52"
+	],
+	tasks: [{
+		uid: "47d0191c",
+		type: "item",
+		items: [{
+			item: "environmentaltech:pladium_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "1fd5872c",
+		type: "item",
+		item: "environmentaltech:pladium_crystal",
+		count: 8
+	}]
+}

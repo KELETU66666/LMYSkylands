@@ -1,0 +1,25 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		"表现出了奇妙的特性,似乎能用这种特性制作一种万用复制液"
+	],
+	dependencies: [
+		"ab9a6c51",
+		"fcc1a382"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "fc9540a5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmygaiyalvbaoshidianluban"
+		}]
+	}],
+	rewards: [{
+		uid: "d695b2ed",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

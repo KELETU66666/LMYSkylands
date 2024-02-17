@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: -7.0d,
+	dependencies: [
+		"e9812a11"
+	],
+	tasks: [{
+		uid: "82d9007a",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9df24ac9",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

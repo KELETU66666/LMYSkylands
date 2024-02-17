@@ -1,0 +1,18 @@
+{
+	title: "[特殊章]封包合成",
+	icon: "packagedauto:recipe_holder",
+	always_invisible: false,
+	group: 1552465683,
+	default_quest_shape: "",
+	images: [{
+		x: 0.0d,
+		y: 8.5d,
+		width: 32.0d,
+		height: 18.0d,
+		rotation: 0.0d,
+		image: "assets:005.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

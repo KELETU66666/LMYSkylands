@@ -1,0 +1,73 @@
+{
+	title: "[特殊章]部分自动化教程",
+	icon: "extracpus:crafting_storage_16384k",
+	always_invisible: false,
+	group: 1552465683,
+	default_quest_shape: "",
+	images: [{
+		x: -50.0d,
+		y: -29.0d,
+		width: 32.0d,
+		height: 18.0d,
+		rotation: 0.0d,
+		image: "assets:001.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -22.5d,
+		y: -29.0d,
+		width: 32.0d,
+		height: 18.0d,
+		rotation: 0.0d,
+		image: "assets:002.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 5.0d,
+		y: -29.0d,
+		width: 32.0d,
+		height: 18.0d,
+		rotation: 0.0d,
+		image: "assets:003.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -50.0d,
+		y: -9.5d,
+		width: 32.0d,
+		height: 18.0d,
+		rotation: 0.0d,
+		image: "assets:004.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -57.0d,
+		y: 9.5d,
+		width: 16.67d,
+		height: 14.67d,
+		rotation: 0.0d,
+		image: "assets:006.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -50.5d,
+		y: 27.5d,
+		width: 32.0d,
+		height: 18.0d,
+		rotation: 0.0d,
+		image: "assets:007.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

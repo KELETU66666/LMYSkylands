@@ -1,0 +1,42 @@
+{
+	x: -1.0d,
+	y: 3.5d,
+	dependencies: [
+		"8c943a56",
+		"a120a6da",
+		"657b1a78"
+	],
+	tasks: [{
+		uid: "61a51533",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade"
+		}]
+	},
+	{
+		uid: "224b49ed",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 1"
+		}]
+	},
+	{
+		uid: "662cfe2d",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 2"
+		}]
+	},
+	{
+		uid: "a7684403",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "5dfd299e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

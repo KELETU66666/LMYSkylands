@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: -7.0d,
+	shape: "pentagon",
+	dependencies: [
+		"7bf884c0",
+		"328a7f51",
+		"620e586a",
+		"00a59f2b"
+	],
+	tasks: [{
+		uid: "237e2c24",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 3"
+		}]
+	}]
+}

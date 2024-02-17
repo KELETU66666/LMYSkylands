@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: -6.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "e1d44a69",
+		type: "fluid",
+		fluid: "ic2uu_matter",
+		amount: 150
+	}],
+	rewards: [{
+		uid: "1b18b0cd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

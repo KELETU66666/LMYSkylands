@@ -1,0 +1,23 @@
+{
+	title: "热!力!",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"热力机器都有不同程度增强,谐振机器耗电更低且能容纳9个升级"
+	],
+	dependencies: [
+		"cba1e416"
+	],
+	tasks: [{
+		uid: "5c449c9e",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}],
+	rewards: [{
+		uid: "4d11189a",
+		type: "xp_levels",
+		xp_levels: 50
+	}]
+}

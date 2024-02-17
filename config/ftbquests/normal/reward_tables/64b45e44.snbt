@@ -1,0 +1,42 @@
+{
+	title: "压缩加速火把",
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		item: "torcherino:blockcompressedtorcherino"
+	},
+	{
+		item: "ic2:crafting 1 23",
+		weight: 10
+	},
+	{
+		item: "ic2:crafting 1 24",
+		weight: 5
+	},
+	{
+		item: "minecraft:grass",
+		weight: 5
+	},
+	{
+		item: "minecraft:dirt",
+		weight: 5
+	},
+	{
+		item: "minecraft:dirt 1 1",
+		weight: 5
+	},
+	{
+		item: "minecraft:dirt 1 2",
+		weight: 5
+	}],
+	loot_crate: {
+		string_id: "2",
+		item_name: "压缩加速火把",
+		color: 16777215,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

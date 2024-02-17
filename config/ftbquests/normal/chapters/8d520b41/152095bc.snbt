@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "f22062d7",
+		type: "botania_mana",
+		value: 100000L
+	}],
+	rewards: [{
+		uid: "6d0a606f",
+		type: "ftbmoney:money",
+		ftb_money: 3L
+	}]
+}

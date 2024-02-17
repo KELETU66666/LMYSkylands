@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"04b53d64"
+	],
+	tasks: [{
+		uid: "c102dd12",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:ender_crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "8d00dafd",
+		type: "item",
+		item: "extendedcrafting:ender_alternator",
+		count: 25
+	}]
+}

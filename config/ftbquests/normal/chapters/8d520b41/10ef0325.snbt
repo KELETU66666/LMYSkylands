@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: -2.0d,
+	shape: "square",
+	description: "遥遥领先！",
+	dependencies: [
+		"4304cf4f"
+	],
+	tasks: [{
+		uid: "105758b8",
+		type: "item",
+		items: [{
+			item: "modularmachinery:baichuju_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "2ffdfa68",
+		type: "ftbmoney:money",
+		ftb_money: 20L,
+		random_bonus: 50
+	}]
+}

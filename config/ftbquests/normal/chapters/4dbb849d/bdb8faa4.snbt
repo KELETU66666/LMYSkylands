@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: -6.0d,
+	dependencies: [
+		"d127a519",
+		"189f800c"
+	],
+	tasks: [{
+		uid: "52d2c405",
+		type: "item",
+		items: [{
+			item: "ic2:upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "bd0eaadb",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

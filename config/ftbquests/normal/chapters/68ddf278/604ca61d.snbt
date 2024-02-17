@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 2.0d,
+	shape: "pentagon",
+	dependencies: [
+		"13ad56c5",
+		"5a041a82"
+	],
+	tasks: [{
+		uid: "5f00624d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:minerstewitem"
+		}]
+	}],
+	rewards: [{
+		uid: "226270eb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

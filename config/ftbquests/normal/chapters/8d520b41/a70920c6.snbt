@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: -1.0d,
+	text: [
+		"似乎还能借用月相进一步压缩"
+	],
+	dependencies: [
+		"5ab01c5e"
+	],
+	tasks: [{
+		uid: "255dfc60",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmygaiyalvbaoshiding"
+		}]
+	}]
+}

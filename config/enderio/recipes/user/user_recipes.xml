@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+
+<recipe name="itemmodularium" required="false">
+        <alloying energy="10000" exp="0">
+            <input name="minecraft:iron_ingot" amount="2" />
+            <input name="minecraft:gold_ingot" amount="3" />
+            <output name="modularmachinery:itemmodularium" amount="5" />
+        </alloying>
+    </recipe>
+
+<recipe name="item_alloy_endergy_ingot" required="false">
+        <alloying energy="10000" exp="0">
+            <input name="enderio:item_alloy_endergy_ingot:1" amount="1" />
+            <input name="darkutils:slime_dyed:6" amount="1" />
+            <output name="enderio:item_alloy_endergy_ingot:4" amount="1" />
+        </alloying>
+    </recipe>
+</enderio:recipes>

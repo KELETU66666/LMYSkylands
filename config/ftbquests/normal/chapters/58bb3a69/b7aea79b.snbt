@@ -1,0 +1,12 @@
+{
+	x: -4.0d,
+	y: -4.0d,
+	dependencies: [
+		"7e7bf5cb"
+	],
+	tasks: [{
+		uid: "41ecd3b2",
+		type: "checkmark",
+		title: "灌注机自动化教程"
+	}]
+}

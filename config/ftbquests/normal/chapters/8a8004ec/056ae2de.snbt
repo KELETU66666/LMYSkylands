@@ -1,0 +1,43 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"充能光合堆肥可通过深度怪物学习获得"
+	],
+	dependencies: [
+		"1ab46d89"
+	],
+	tasks: [{
+		uid: "68d2ddc3",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			Damage: 4s,
+			tag: {
+				Facing: 3b,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				RSControl: 0b,
+				Energy: 0,
+				Level: 0b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "2c1015f1",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "34b1fc71",
+		type: "item",
+		item: "thermalfoundation:fertilizer 1 2",
+		count: 8
+	}]
+}

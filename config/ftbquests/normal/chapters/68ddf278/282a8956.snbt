@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	description: "基础的能量传输",
+	dependencies: [
+		"4bb1694e"
+	],
+	tasks: [{
+		uid: "c52a0169",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "08dddaaa",
+		type: "item",
+		item: "thermaldynamics:duct_0 1 1",
+		count: 64
+	}]
+}

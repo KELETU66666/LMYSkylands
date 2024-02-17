@@ -1,0 +1,21 @@
+{
+	x: 8.0d,
+	y: 4.5d,
+	description: "bo♂y ne♂xt doo♂r~",
+	dependencies: [
+		"2f4c835b"
+	],
+	tasks: [{
+		uid: "28b59615",
+		type: "item",
+		items: [{
+			item: "modularmachinery:jinglingmen_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "ed2c3aed",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "时间开始流动",
+	x: 2.0d,
+	y: -6.5d,
+	shape: "diamond",
+	can_repeat: true,
+	tasks: [{
+		uid: "6f62eab5",
+		type: "ftbmoney:money",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "2dff56d9",
+		type: "command",
+		command: "/gamerule doDaylightCycle true"
+	}]
+}

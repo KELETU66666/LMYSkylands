@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	description: "灌注永雏塔菲喵,灌注永雏塔菲谢谢喵!",
+	dependencies: [
+		"b261d947"
+	],
+	tasks: [{
+		uid: "22285b72",
+		type: "item",
+		items: [{
+			item: "modularmachinery:moliguanzhu_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "c51acb4d",
+		type: "ftbmoney:money",
+		ftb_money: 100L,
+		random_bonus: 25
+	}]
+}

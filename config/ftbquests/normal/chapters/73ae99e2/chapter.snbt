@@ -1,0 +1,7 @@
+{
+	title: "[第5章]星辉魔法 启动!",
+	icon: "astralsorcery:blockaltar 1 3",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

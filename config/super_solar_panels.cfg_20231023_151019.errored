@@ -1,0 +1,39 @@
+# Configuration file
+
+"settings quantum boosts" {
+    B:"Disable Effect JUMP BOOST"=false
+    B:"Disable Effect REGENERATION "=false
+    B:"Disable Effect WATER BREATHING "=false
+}
+
+
+"settings quantum chestplate" {
+    B:"Disable Effect FIRE RESISTANCE "=false
+}
+
+
+"settings quantum leggins" {
+    B:"Disable Effect LUCK"=false
+    B:"Disable Effect SPEED "=false
+}
+
+
+    I:AdminGenDay=83886080
+    I:AdminGenNight=83886080
+    I:AdminPTier=12
+    I:AdminStorage=1000000000
+    I:PhotonicGenDay=400000000
+    I:PhotonicGenNight=400000000
+    I:PhotonicStorage=999999999
+    I:PhotonicTier=13
+    I:SingularGenDay=10485760
+    I:SingularGenNight=10485760
+    I:SingularStorage=1000000000
+    I:SingularTier=11
+    I:SpecrtalGenDay=327680
+    I:SpecrtalGenNight=327680
+    I:SpecrtalStorage=100000000
+    I:SpecrtalTier=10
+}
+
+

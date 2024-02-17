@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"遇到ic2电线断成点，电线和ic2机器断开不供电请重启整合包"
+	],
+	dependencies: [
+		"b261d947",
+		"f69d136a"
+	],
+	tasks: [{
+		uid: "c79b3b23",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "f9297258",
+		type: "item",
+		item: "ic2:resource 1 12",
+		count: 8
+	}]
+}

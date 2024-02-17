@@ -1,0 +1,25 @@
+{
+	x: 11.0d,
+	y: -2.5d,
+	dependencies: [
+		"8498898c"
+	],
+	tasks: [{
+		uid: "c87efa18",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ethanol",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b6cc9372",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 11.5d,
+	y: -1.0d,
+	text: [
+		"已经十分接近理想状态了,可以进行下一步处理了"
+	],
+	dependencies: [
+		"a70920c6"
+	],
+	tasks: [{
+		uid: "7dd0b665",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmyyasuogaiyalvbaoshiding"
+		}]
+	}]
+}

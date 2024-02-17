@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 2.0d,
+	text: [
+		"大理石这种石头好像能收集夜晚离散的星能,或许用其做个祭坛能够聚集足够的星能"
+	],
+	dependencies: [
+		"ff27fa70"
+	],
+	tasks: [{
+		uid: "4fe7e0f2",
+		type: "item",
+		items: [{
+			item: "modularmachinery:xingneng_buhuo_controller"
+		}]
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	x: -5.0d,
+	y: -4.0d,
+	description: "不会损坏的钻石锤！",
+	dependencies: [
+		"619556fe"
+	],
+	tasks: [{
+		uid: "a2eebbc7",
+		type: "item",
+		items: [{
+			id: "excompressum:compressed_hammer_diamond",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b7c35c7e",
+		type: "item",
+		item: {
+			id: "excompressum:compressed_hammer_diamond",
+			tag: {
+				Unbreakable: 1
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

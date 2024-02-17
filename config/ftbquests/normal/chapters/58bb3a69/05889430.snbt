@@ -1,0 +1,40 @@
+{
+	title: "结晶三件套!",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"硫酸已加简易合成"
+	],
+	dependencies: [
+		"31a14210"
+	],
+	tasks: [{
+		uid: "97c1fbff",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 6"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1648fa2f",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 7"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "64fa7d55",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 8"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2e9a3b21",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

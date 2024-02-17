@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	description: "快点端上来罢!!!!",
+	text: [
+		"真神奇,居然能聚集空气中的少量不明物质,这些物质足够进行初步融合"
+	],
+	dependencies: [
+		"4d72a3f5",
+		"109abd1d"
+	],
+	tasks: [{
+		uid: "5e6eadcf",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "e5a054ac",
+		type: "item",
+		item: {
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		},
+		count: 7
+	}]
+}

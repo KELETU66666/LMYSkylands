@@ -1,0 +1,24 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		"在制作出它时,我的直觉告诉我它能和这里的一种物质结合,我应该去制作它,也许能成为破坏护盾的契机"
+	],
+	dependencies: [
+		"c4a76f93"
+	],
+	tasks: [{
+		uid: "fdac3dcd",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 160"
+		}]
+	}],
+	rewards: [{
+		uid: "27615308",
+		type: "ftbmoney:money",
+		ftb_money: 10L,
+		random_bonus: 50
+	}]
+}

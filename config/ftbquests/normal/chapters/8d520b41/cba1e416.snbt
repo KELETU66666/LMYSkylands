@@ -1,0 +1,24 @@
+{
+	title: "被灌注满了呜呜呜",
+	x: 7.0d,
+	y: -2.0d,
+	text: [
+		"你无意间将绿宝石丢入了魔力池内,且发生了剧烈的改变,它似乎能够分解掉魔女的护盾,不过目前的状态不适于制作武器,应该想办法改进它"
+	],
+	dependencies: [
+		"45d9b15d"
+	],
+	tasks: [{
+		uid: "f0d453af",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmymolilvbaoshi"
+		}]
+	}],
+	rewards: [{
+		uid: "d5e97a06",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "超级快",
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "c901b777",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_totemic"
+		}]
+	}]
+}

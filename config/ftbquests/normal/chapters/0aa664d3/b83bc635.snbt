@@ -1,0 +1,18 @@
+{
+	title: "加速火把抽抽乐",
+	icon: "torcherino:blocktorcherino",
+	x: -1.0d,
+	y: 4.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "42306956",
+		type: "ftbmoney:money",
+		value: 30L
+	}],
+	rewards: [{
+		uid: "9c5fb0d8",
+		type: "random",
+		icon: "torcherino:blocktorcherino",
+		table: 0
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "[特殊章]通量网络",
+	icon: "fluxnetworks:fluxcontroller",
+	always_invisible: false,
+	group: 1552465683,
+	default_quest_shape: ""
+}

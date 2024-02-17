@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "解除限制传输速度即可达到2.1eRF/t",
+	tasks: [{
+		uid: "b35bf18e",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:flux"
+		}]
+	}]
+}

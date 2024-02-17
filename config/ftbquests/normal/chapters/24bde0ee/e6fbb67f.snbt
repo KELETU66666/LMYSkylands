@@ -1,0 +1,29 @@
+{
+	title: "好耶!",
+	x: 6.0d,
+	y: -2.0d,
+	dependencies: [
+		"961f9c8a",
+		"51e5bb72"
+	],
+	tasks: [{
+		uid: "9db9e003",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	},
+	{
+		uid: "9e1b6d38",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "18ce5a60",
+		type: "item",
+		item: "packageddraconic:fusion_crafter"
+	}]
+}

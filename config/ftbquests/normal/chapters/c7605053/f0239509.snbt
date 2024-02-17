@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	dependencies: [
+		"7cd0c183"
+	],
+	tasks: [{
+		uid: "435d8ef1",
+		type: "item",
+		items: [{
+			item: "packagedexcrafting:elite_crafter"
+		}]
+	}]
+}

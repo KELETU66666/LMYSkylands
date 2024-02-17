@@ -1,0 +1,33 @@
+{
+	title: "好用!爱用!",
+	x: 0.0d,
+	y: -2.0d,
+	description: "轻度物品传输的不二之选!",
+	text: [
+		"教程查看https://www.mcmod.cn/item/11483.html"
+	],
+	tasks: [{
+		uid: "4e640d6b",
+		type: "item",
+		items: [{
+			item: "enderio:item_item_conduit"
+		}]
+	}],
+	rewards: [{
+		uid: "88903ad9",
+		type: "item",
+		item: "enderio:item_item_conduit",
+		count: 64
+	},
+	{
+		uid: "72d60521",
+		type: "item",
+		item: "enderio:item_conduit_probe"
+	},
+	{
+		uid: "003fbff8",
+		type: "item",
+		item: "enderio:item_extract_speed_upgrade",
+		count: 60
+	}]
+}

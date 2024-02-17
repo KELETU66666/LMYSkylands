@@ -1,0 +1,22 @@
+{
+	x: 9.0d,
+	y: 0.5d,
+	text: [
+		"含有木棍一键搭建,背包内有所有材料时手持木棍右键控制器一键搭建(就算缺少部分材料也会搭建,不过能一次拿完就一次拿完)"
+	],
+	dependencies: [
+		"ceec52b2"
+	],
+	tasks: [{
+		uid: "b7e89982",
+		type: "item",
+		items: [{
+			item: "modularmachinery:guye_hunhe_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "017e7648",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

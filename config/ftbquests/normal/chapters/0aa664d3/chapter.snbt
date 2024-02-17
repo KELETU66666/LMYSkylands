@@ -1,0 +1,7 @@
+{
+	title: "[第0章]",
+	icon: "minecraft:yellow_flower",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

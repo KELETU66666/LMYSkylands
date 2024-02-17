@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 5.0d,
+	dependencies: [
+		"ac1b5c99"
+	],
+	tasks: [{
+		uid: "0c7cafb0",
+		type: "item",
+		items: [{
+			item: "threng:machine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7ec6be7b",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

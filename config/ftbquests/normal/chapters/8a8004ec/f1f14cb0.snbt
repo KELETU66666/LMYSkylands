@@ -1,0 +1,21 @@
+{
+	title: "确实挺不错的",
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"8c943a56"
+	],
+	tasks: [{
+		uid: "f8f09b0b",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "9dc5dabd",
+		type: "item",
+		item: "thermaldynamics:duct_0 1 5",
+		count: 64
+	}]
+}

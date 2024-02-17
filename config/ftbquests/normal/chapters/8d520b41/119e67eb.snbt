@@ -1,0 +1,24 @@
+{
+	title: "杀!",
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		"天生万物以养人,人无一物以报天!"
+	],
+	dependencies: [
+		"fd3e557b",
+		"cba1e416"
+	],
+	tasks: [{
+		uid: "4b419d2c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:tuzaiji_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "e3e0c7e3",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

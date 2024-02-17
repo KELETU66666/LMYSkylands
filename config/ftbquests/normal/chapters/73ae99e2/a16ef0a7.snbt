@@ -1,0 +1,20 @@
+{
+	x: -4.0d,
+	y: 4.0d,
+	dependencies: [
+		"8fe12ae5"
+	],
+	tasks: [{
+		uid: "8e7e302a",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockrituallink"
+		}]
+	}],
+	rewards: [{
+		uid: "2581e755",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

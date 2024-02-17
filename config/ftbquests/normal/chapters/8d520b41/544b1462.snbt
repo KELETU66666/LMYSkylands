@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: -4.0d,
+	dependencies: [
+		"45d9b15d"
+	],
+	tasks: [{
+		uid: "3d77b884",
+		type: "item",
+		items: [{
+			item: "modularmachinery:jinjieguanzhu_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "0084c8dc",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

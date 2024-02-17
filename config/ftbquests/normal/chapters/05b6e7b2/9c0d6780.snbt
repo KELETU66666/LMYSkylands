@@ -1,0 +1,18 @@
+{
+	title: "超级快!",
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"5a17c2f7"
+	],
+	tasks: [{
+		uid: "cc98a0af",
+		type: "item",
+		items: [{
+			id: "enderio:item_capacitor_totemic",
+			tag: {
+				Unbreakable: 1
+			}
+		}]
+	}]
+}

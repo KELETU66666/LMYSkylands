@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"它似乎拥有着神奇的力量,能聚集一些看不见的物质"
+	],
+	dependencies: [
+		"ceec52b2"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "d4a8ad68",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "9b46b121",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

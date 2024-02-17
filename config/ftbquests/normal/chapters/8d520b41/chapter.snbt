@@ -1,0 +1,15 @@
+{
+	title: "[第2章]植物魔法 启动！",
+	icon: {
+		id: "botania:lexicon",
+		tag: {
+			knowledge.minecraft: 1b,
+			knowledge.alfheim: 1b,
+			knowledge.dream: 1b,
+			knowledge.relic: 1b
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

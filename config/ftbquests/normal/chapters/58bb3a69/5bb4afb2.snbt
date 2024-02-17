@@ -1,0 +1,29 @@
+{
+	title: "128倍!!!",
+	x: -1.0d,
+	y: -4.0d,
+	dependencies: [
+		"215bd053"
+	],
+	tasks: [{
+		uid: "78df75cf",
+		type: "item",
+		items: [{
+			item: "mekanism:energyupgrade"
+		}],
+		count: 8L
+	},
+	{
+		uid: "838cc1db",
+		type: "item",
+		items: [{
+			item: "mekanism:speedupgrade"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "867106b6",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

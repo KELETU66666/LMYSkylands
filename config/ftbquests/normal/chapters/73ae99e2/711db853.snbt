@@ -1,0 +1,20 @@
+{
+	x: -16.0d,
+	y: 4.0d,
+	dependencies: [
+		"3f2d9153"
+	],
+	tasks: [{
+		uid: "08f4a326",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmyjingtigaiyadianluban"
+		}]
+	}],
+	rewards: [{
+		uid: "dbbe44ee",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

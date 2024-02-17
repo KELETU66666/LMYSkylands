@@ -1,0 +1,47 @@
+{
+	x: -5.5d,
+	y: -1.5d,
+	text: [
+		"呃呃呃,你是?",
+		"不如小生成机的东西!!真不熟"
+	],
+	dependencies: [
+		"f0458df0"
+	],
+	tasks: [{
+		uid: "c86699f6",
+		type: "item",
+		items: [{
+			item: "mets:te 1 40"
+		}]
+	},
+	{
+		uid: "f9b7721a",
+		type: "item",
+		items: [{
+			id: "mets:te",
+			Damage: 39s,
+			tag: {}
+		}]
+	},
+	{
+		uid: "27d8e789",
+		type: "item",
+		items: [{
+			item: "mets:te 1 38"
+		}],
+		count: 4L
+	},
+	{
+		uid: "1ca4ee8f",
+		type: "item",
+		items: [{
+			item: "mets:te 1 37"
+		}]
+	}],
+	rewards: [{
+		uid: "f8a7d279",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

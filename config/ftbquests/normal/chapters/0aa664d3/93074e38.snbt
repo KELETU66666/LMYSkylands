@@ -1,0 +1,32 @@
+{
+	title: "好用的扳手",
+	icon: {
+		id: "morphtool:tool",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -2.5d,
+	y: 0.0d,
+	description: "好...好用吗？",
+	text: [
+		"通过将其与扳手合成，变形工具能模仿任何mod的扳手、螺丝刀、锤子或是魔杖生成的枝条、花瓣.例如，你可以将变形工具与IC2青铜扳手无序合成，当你看着C2的机器时，变形工具就会变成IC2青铜报手支持大部分添加扳手的科技类模组变形工具仅能与每个模组的一个工具进行合成(如沉浸可以和工程师剪线钳或工程师锤合成)，但若与之合成的扳手/锤/剪线钳等耐久耗尽，变形工具会直接销毁!按住Shitt使用滚轮选定可使用Shift+Q将所选工具从变形工具中丢出"
+	],
+	dependencies: [
+		"07aa743c"
+	],
+	tasks: [{
+		uid: "1c0d849e",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "41a4fe1a",
+		type: "item",
+		item: {
+			id: "morphtool:tool",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: 3.5d,
+	dependencies: [
+		"ac418ac7"
+	],
+	tasks: [{
+		uid: "0743d579",
+		type: "checkmark",
+		title: "热力自动化"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "妈妈再也不用担心我缺魔力了",
+	x: 2.0d,
+	y: 4.5d,
+	description: "热爆花,神中神!",
+	dependencies: [
+		"8a1cf378"
+	],
+	tasks: [{
+		uid: "1a8d77f5",
+		type: "item",
+		items: [{
+			item: "modularmachinery:gaoji_moli_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "1e3bea53",
+		type: "ftbmoney:money",
+		ftb_money: 100L,
+		random_bonus: 30
+	}]
+}

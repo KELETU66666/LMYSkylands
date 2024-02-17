@@ -1,0 +1,51 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	description: "不敢想象没有大型分子的ae做自动化得有多麻烦",
+	text: [
+		"送的材料够组个5*5*5的大型分子,后续请自行升级,最大10*10*10",
+		"教程https://www.mcmod.cn/item/287657.html",
+		"10*10*10推荐341处理核心,171样板核心",
+		"大型分子请不要跨区块放置",
+		"输入样板推荐使用无线传输(如mek量子传输装置)贴IO端口.或者存储面板调高优先度标记编码样板放置模糊卡设置不可见,制作好合成样板时直接丢ae里就会自动输出到大型分子室里"
+	],
+	dependencies: [
+		"ac1b5c99"
+	],
+	tasks: [{
+		uid: "4a55069a",
+		type: "item",
+		items: [{
+			item: "threng:big_assembler 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "9bdd6888",
+		type: "item",
+		item: "threng:big_assembler",
+		count: 44
+	},
+	{
+		uid: "d5c8cba1",
+		type: "item",
+		item: "threng:big_assembler 1 1",
+		count: 52
+	},
+	{
+		uid: "f1290f1d",
+		type: "item",
+		item: "threng:big_assembler 1 3",
+		count: 18
+	},
+	{
+		uid: "66b22128",
+		type: "item",
+		item: "threng:big_assembler 1 4",
+		count: 9
+	},
+	{
+		uid: "1bb0444d",
+		type: "item",
+		item: "threng:big_assembler 1 5"
+	}]
+}

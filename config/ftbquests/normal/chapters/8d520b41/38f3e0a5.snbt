@@ -1,0 +1,46 @@
+{
+	x: 6.0d,
+	y: 8.5d,
+	text: [
+		"请使用魔力附魔台,否则会只有三级!"
+	],
+	dependencies: [
+		"5b1aee69"
+	],
+	tasks: [{
+		uid: "8c4d9f21",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 10s,
+					id: 35s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6b959855",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 25s,
+					id: 35s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bab1b586",
+		type: "ftbmoney:money",
+		ftb_money: 100L,
+		random_bonus: 30
+	}]
+}

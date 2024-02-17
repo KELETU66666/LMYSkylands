@@ -1,0 +1,22 @@
+{
+	x: -4.0d,
+	y: -9.0d,
+	text: [
+		"成功将其封装,内部蕴含的魔力也不会随意散发出来,但下一步该怎么做呢?也许是时候探索夜晚的奇妙能量了"
+	],
+	dependencies: [
+		"fcc1a382"
+	],
+	tasks: [{
+		uid: "d9b05b57",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmyfengzhuangmolilvbaoshidianluban"
+		}]
+	}],
+	rewards: [{
+		uid: "1e574adf",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

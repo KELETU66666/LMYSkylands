@@ -1,0 +1,22 @@
+{
+	x: -7.5d,
+	y: -1.5d,
+	text: [
+		"使用流体/固体装填机制作"
+	],
+	dependencies: [
+		"ceccf7fa"
+	],
+	tasks: [{
+		uid: "4fab6c87",
+		type: "item",
+		items: [{
+			item: "tconevo:metal 1 40"
+		}]
+	}],
+	rewards: [{
+		uid: "b0adb60e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

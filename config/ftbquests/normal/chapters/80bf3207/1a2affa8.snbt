@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	text: [
+		"消耗RF，通过将对应生物的原始物质转化为大量对应战利品。",
+		"自动化物品需从上方输入，成品从后侧输出。"
+	],
+	dependencies: [
+		"ab44875b"
+	],
+	tasks: [{
+		uid: "126f32cb",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:extraction_chamber"
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "你说得对,但是...",
+	x: 4.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "6f65aaa4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quantum_link"
+		}]
+	}],
+	rewards: [{
+		uid: "b8cb8afa",
+		type: "item",
+		item: "appliedenergistics2:quantum_ring",
+		count: 16
+	},
+	{
+		uid: "ff39f809",
+		type: "item",
+		item: "appliedenergistics2:quantum_link"
+	},
+	{
+		uid: "55aab09f",
+		type: "item",
+		item: "appliedenergistics2:material 1 47"
+	}]
+}

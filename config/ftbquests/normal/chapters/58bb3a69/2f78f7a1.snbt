@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -10.0d,
+	dependencies: [
+		"8ea45d72"
+	],
+	tasks: [{
+		uid: "182f87c2",
+		type: "item",
+		items: [{
+			item: "modularmachinery:jiuji_hunhe_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "6367c650",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

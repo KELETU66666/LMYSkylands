@@ -1,0 +1,84 @@
+{
+	title: "电弧炉",
+	icon: "immersiveengineering:metal_multiblock 1 13",
+	x: 9.0d,
+	y: 3.0d,
+	dependencies: [
+		"ceec52b2"
+	],
+	tasks: [{
+		uid: "56abe277",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal_slab 1 8"
+		}],
+		count: 14L
+	},
+	{
+		uid: "1fd01242",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 5L
+	},
+	{
+		uid: "499f83eb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 10L
+	},
+	{
+		uid: "c1b6d58e",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}]
+	},
+	{
+		uid: "96d2a73d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "b5d852f7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 8"
+		}],
+		count: 8L
+	},
+	{
+		uid: "09952b74",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}],
+		count: 27L
+	},
+	{
+		uid: "66587b16",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:storage_alloy"
+		}],
+		count: 6L
+	},
+	{
+		uid: "daab2ee1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "73aab3c4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

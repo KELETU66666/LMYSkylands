@@ -1,0 +1,17 @@
+{
+	title: "究极核电发电机",
+	x: 0.0d,
+	y: -13.5d,
+	dependencies: [
+		"bf8538f9",
+		"8aa1673f",
+		"cd5d265b"
+	],
+	tasks: [{
+		uid: "e207402b",
+		type: "item",
+		items: [{
+			item: "modularmachinery:anliuzhi_fadianji_controller"
+		}]
+	}]
+}

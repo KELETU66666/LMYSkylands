@@ -1,0 +1,20 @@
+{
+	x: -8.0d,
+	y: 0.0d,
+	dependencies: [
+		"8fe12ae5"
+	],
+	tasks: [{
+		uid: "e8d05b73",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockstarlightinfuser"
+		}]
+	}],
+	rewards: [{
+		uid: "25569278",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

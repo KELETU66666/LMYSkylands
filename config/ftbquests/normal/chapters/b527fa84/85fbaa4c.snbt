@@ -1,0 +1,25 @@
+{
+	title: "启动!",
+	x: 2.0d,
+	y: -3.5d,
+	dependencies: [
+		"3f2d9153"
+	],
+	tasks: [{
+		uid: "6d0800a4",
+		type: "item",
+		items: [{
+			item: "avaritia:extreme_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "11602cc3",
+		type: "item",
+		item: "packagedavaritia:extreme_crafter"
+	},
+	{
+		uid: "dbaf25c8",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

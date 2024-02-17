@@ -1,0 +1,29 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	description: "方便的频道远程传输方案",
+	text: [
+		"通过无线设置工具点对点连接，但一个无线接入器只能连接另外一个无线接入器。",
+		"不能跨维度连接。连接只能传输32个频道。"
+	],
+	dependencies: [
+		"fb3c2bbb"
+	],
+	tasks: [{
+		uid: "53e74dea",
+		type: "item",
+		items: [{
+			item: "ae2stuff:wireless"
+		}]
+	}],
+	rewards: [{
+		uid: "640e2ed3",
+		type: "item",
+		item: "ae2stuff:wireless"
+	},
+	{
+		uid: "55e9200f",
+		type: "item",
+		item: "ae2stuff:wireless_kit"
+	}]
+}

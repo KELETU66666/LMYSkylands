@@ -1,0 +1,17 @@
+{
+	title: "关闭死亡不掉落",
+	x: 2.0d,
+	y: -4.0d,
+	shape: "square",
+	can_repeat: true,
+	tasks: [{
+		uid: "d6272f5a",
+		type: "checkmark",
+		icon: "enderio:block_death_pouch"
+	}],
+	rewards: [{
+		uid: "b5b6da9e",
+		type: "command",
+		command: "/gamerule KeepInventory false"
+	}]
+}

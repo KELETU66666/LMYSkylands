@@ -1,0 +1,38 @@
+{
+	x: 4.0d,
+	y: 2.5d,
+	description: "泰拉泰拉泰?",
+	dependencies: [
+		"d2921933"
+	],
+	tasks: [{
+		uid: "d87bdf44",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	}],
+	rewards: [{
+		uid: "837d20a4",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "0c8221a3",
+		type: "item",
+		item: "botania:spark",
+		count: 64
+	},
+	{
+		uid: "4d2d466e",
+		type: "item",
+		item: "botania:sparkupgrade 1 2",
+		count: 64
+	},
+	{
+		uid: "f36184cc",
+		type: "item",
+		item: "botania:sparkupgrade 1 1",
+		count: 64
+	}]
+}

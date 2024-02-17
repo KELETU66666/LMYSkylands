@@ -1,0 +1,25 @@
+{
+	title: "ae网络的躯干!",
+	x: 2.0d,
+	y: 0.0d,
+	description: "不要跨区块放置!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+	text: [
+		"单面可提供32频道,大量传输可用p2p,量子环,无线接入器"
+	],
+	dependencies: [
+		"fb3c2bbb"
+	],
+	tasks: [{
+		uid: "405fb9e6",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}],
+	rewards: [{
+		uid: "aa3b3e99",
+		type: "item",
+		item: "appliedenergistics2:controller",
+		count: 8
+	}]
+}

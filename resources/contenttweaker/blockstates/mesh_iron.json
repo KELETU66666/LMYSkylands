@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "textures": {
+        "texture": "contenttweaker:blocks/mesh_iron",
+        "particle": "contenttweaker:blocks/mesh_iron"
+      },
+      "model": "contenttweaker:mesh_iron",
+      "uvlock": true,
+      "transform": "forge:default-block"
+    },
+    "variants": {
+      "normal": [{}],
+      "inventory": [{}]
+    }
+  }

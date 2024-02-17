@@ -1,0 +1,28 @@
+{
+	title: "最讨厌的一集",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"速度又慢还鸡掰是实体传输,你怎么不去食呢",
+		"教程查看https://www.mcmod.cn/post/1572.html"
+	],
+	tasks: [{
+		uid: "28fd2648",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_32 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "6a439f53",
+		type: "item",
+		item: "thermaldynamics:duct_32 1 1",
+		count: 64
+	},
+	{
+		uid: "3fb2fff0",
+		type: "item",
+		item: "thermaldynamics:servo",
+		count: 4
+	}]
+}

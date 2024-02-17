@@ -1,0 +1,28 @@
+{
+	title: "想致富，先撸树",
+	x: -12.0d,
+	y: -6.0d,
+	description: "打个胶先",
+	text: [
+		"这里与我想象中的异次元不同,这里几乎与地球相同,但却没有魔女以及使徒"
+	],
+	dependencies: [
+		"07aa743c"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "134f8c92",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}],
+		ignore_nbt: 2b,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "d429692d",
+		type: "item",
+		item: "minecraft:log",
+		count: 64
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"d2f94c6f"
+	],
+	tasks: [{
+		uid: "81515872",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxblock"
+		}]
+	}]
+}

@@ -1,0 +1,58 @@
+{
+	title: "欢迎来到灵茗屿空岛！",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "pentagon",
+	description: "半懒人爽包，善用mod实现一切自动化！",
+	text: [
+		"本包适合对模组有一定了解的玩家游玩",
+		"不了解mod的玩家可以一边查mcmod.com或者哔哩哔哩一边玩",
+		"本包的专家级最终目标是制作全自动化产线实现5分钟制造1无尽锭,懒人级最终目标是做出无尽杖,中间级最终目标是做出创造取出"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d7d37ef3",
+		type: "checkmark",
+		title: "欢迎来到阿尔空岛",
+		icon: "appliedenergistics2:controller"
+	}],
+	rewards: [{
+		uid: "60c54be8",
+		type: "item",
+		item: "appliedenergistics2:controller",
+		count: 44
+	},
+	{
+		uid: "a04e3b2c",
+		type: "item",
+		item: "appliedenergistics2:creative_energy_cell"
+	},
+	{
+		uid: "178429fc",
+		type: "item",
+		item: {
+			id: "appliedenergistics2:storage_cell_4k",
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		count: 10
+	},
+	{
+		uid: "71874651",
+		type: "item",
+		item: "appliedenergistics2:drive"
+	},
+	{
+		uid: "1425d9bd",
+		type: "item",
+		item: "appliedenergistics2:part 1 46",
+		count: 64
+	},
+	{
+		uid: "ab10a938",
+		type: "item",
+		item: "appliedenergistics2:part 1 360"
+	}]
+}

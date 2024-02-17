@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"31a14210"
+	],
+	tasks: [{
+		uid: "26ddd572",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2de9e09f",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

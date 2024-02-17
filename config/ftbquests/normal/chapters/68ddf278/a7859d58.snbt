@@ -1,0 +1,26 @@
+{
+	x: 7.0d,
+	y: -2.0d,
+	text: [
+		"可能会出现贴图错误但不影响使用",
+		"背包内含有结构物品时手持木棍右键控制器一键搭建",
+		"液体无法一键搭建请使用mek储罐"
+	],
+	dependencies: [
+		"c4a76f93",
+		"ceec52b2"
+	],
+	tasks: [{
+		uid: "eb9df955",
+		type: "item",
+		items: [{
+			item: "modularmachinery:gaoji_gaolu_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "c6c461b1",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

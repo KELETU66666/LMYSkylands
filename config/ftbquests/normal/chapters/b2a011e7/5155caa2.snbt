@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -5.0d,
+	dependencies: [
+		"e1900700"
+	],
+	tasks: [{
+		uid: "d16ceb24",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_botanic_miner_cont_3"
+		}]
+	}]
+}

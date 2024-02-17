@@ -1,0 +1,47 @@
+{
+	title: "最喜欢的一集",
+	x: 4.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "重度传输的不二之选!(ae除外)",
+	text: [
+		"具体教程请查看https://www.mcmod.cn/post/1605.html",
+		"什么?需要电?xnet岂是如此不便之物?"
+	],
+	tasks: [{
+		uid: "6a583c60",
+		type: "item",
+		items: [{
+			item: "xnet:netcable"
+		}]
+	}],
+	rewards: [{
+		uid: "937622af",
+		type: "item",
+		item: {
+			id: "xnet:connector",
+			tag: {
+				display: {
+					LocName: "tile.xnet.connector_blue.name"
+				}
+			}
+		},
+		count: 8
+	},
+	{
+		uid: "80637cf8",
+		type: "item",
+		item: "xnet:controller"
+	},
+	{
+		uid: "ef67d73a",
+		type: "item",
+		item: "randomthings:spectrecoil_number"
+	},
+	{
+		uid: "c5cae967",
+		type: "item",
+		item: "xnet:netcable",
+		count: 64
+	}]
+}

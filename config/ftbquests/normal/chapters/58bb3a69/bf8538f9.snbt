@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -12.0d,
+	dependencies: [
+		"8ea45d72"
+	],
+	tasks: [{
+		uid: "f0590628",
+		type: "item",
+		items: [{
+			item: "modularmachinery:daxing_dianjie_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "c41c6349",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

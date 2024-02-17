@@ -1,0 +1,21 @@
+{
+	x: 10.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "07f990a9",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_seed_rubber"
+		}]
+	}],
+	rewards: [{
+		uid: "dfa2f9ce",
+		type: "item",
+		item: "ic2:sapling"
+	},
+	{
+		uid: "595f6501",
+		type: "item",
+		item: "ic2:misc_resource 1 4"
+	}]
+}

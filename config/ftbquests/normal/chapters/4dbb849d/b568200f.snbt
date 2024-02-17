@@ -1,0 +1,27 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"f0248def"
+	],
+	tasks: [{
+		uid: "65f4dac9",
+		type: "item",
+		items: [{
+			item: "mets:titanium_ore"
+		}]
+	},
+	{
+		uid: "b7f2d83b",
+		type: "item",
+		items: [{
+			item: "mets:niobium_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "d14ee6e7",
+		type: "item",
+		item: "mets:niobium_titanium_dust",
+		count: 16
+	}]
+}

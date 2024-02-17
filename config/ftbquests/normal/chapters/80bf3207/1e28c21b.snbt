@@ -1,0 +1,26 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"将数据模型放在深度学习器内并将深度学习器放在物品栏杀怪即可升级",
+		"等级达到Basic即可放入模拟室内模拟,每模拟一次可增加1击杀数"
+	],
+	dependencies: [
+		"ab44875b"
+	],
+	tasks: [{
+		uid: "b0116e00",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "efaa1a1e",
+		type: "item",
+		item: "deepmoblearning:data_model_blank",
+		count: 32
+	}]
+}

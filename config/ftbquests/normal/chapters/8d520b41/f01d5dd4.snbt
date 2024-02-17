@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: -3.0d,
+	text: [
+		"极少的魔力就能改变它的性质但却能很完美的容纳魔力"
+	],
+	dependencies: [
+		"5ab01c5e"
+	],
+	tasks: [{
+		uid: "c2a2b5f9",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 8"
+		}]
+	}]
+}

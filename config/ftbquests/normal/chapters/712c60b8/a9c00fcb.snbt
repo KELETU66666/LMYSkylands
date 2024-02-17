@@ -1,0 +1,36 @@
+{
+	title: "最便宜的管道!!!",
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "75ec1d8d",
+		type: "item",
+		items: [{
+			item: "extrautils2:pipe"
+		}]
+	}],
+	rewards: [{
+		uid: "37ba9ff6",
+		type: "item",
+		item: "extrautils2:pipe",
+		count: 64
+	},
+	{
+		uid: "48d9cc6b",
+		type: "item",
+		item: "extrautils2:grocket",
+		count: 4
+	},
+	{
+		uid: "26b602b0",
+		type: "item",
+		item: "extrautils2:grocket 1 2",
+		count: 4
+	},
+	{
+		uid: "a81308bf",
+		type: "item",
+		item: "extrautils2:grocket 1 6",
+		count: 4
+	}]
+}

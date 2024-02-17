@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	dependencies: [
+		"672f816a",
+		"d2e137fe"
+	],
+	tasks: [{
+		uid: "84bd0700",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_dust"
+		}]
+	}],
+	rewards: [{
+		uid: "e589bed7",
+		type: "item",
+		item: "excompressum:compressed_block",
+		count: 64
+	}]
+}

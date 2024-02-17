@@ -1,0 +1,24 @@
+{
+	title: "你说得对,但是...",
+	x: -4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "34d2f223",
+		type: "item",
+		items: [{
+			id: "enderstorage:ender_storage",
+			tag: {
+				Frequency: {
+					left: 0,
+					middle: 0,
+					right: 0
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "be543cfc",
+		type: "item",
+		item: "enderstorage:ender_storage"
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	title: "ic全家桶",
+	x: 2.0d,
+	y: -4.0d,
+	dependencies: [
+		"715deafc"
+	],
+	tasks: [{
+		uid: "9e579573",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 43"
+		}]
+	},
+	{
+		uid: "e0718131",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 47"
+		}]
+	},
+	{
+		uid: "f3f9f0be",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 45"
+		}]
+	},
+	{
+		uid: "66a7210d",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 44"
+		}]
+	},
+	{
+		uid: "698d3a91",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 55"
+		}]
+	}],
+	rewards: [{
+		uid: "48ec31c9",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

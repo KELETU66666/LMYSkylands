@@ -1,0 +1,7 @@
+{
+	title: "[特殊章]ae",
+	icon: "appliedenergistics2:controller",
+	always_invisible: false,
+	group: 1552465683,
+	default_quest_shape: ""
+}

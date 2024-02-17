@@ -1,0 +1,36 @@
+{
+	title: "超级快!!!!",
+	x: -2.0d,
+	y: -6.0d,
+	dependencies: [
+		"35f847b1"
+	],
+	tasks: [{
+		uid: "2eaec6ef",
+		type: "item",
+		items: [{
+			id: "enderio:item_capacitor_totemic",
+			tag: {
+				Unbreakable: 1,
+				ench: [{
+					id: 32s,
+					lvl: 20s
+				}]
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "e1159791",
+		type: "item",
+		item: {
+			id: "enderio:item_capacitor_totemic",
+			tag: {
+				Unbreakable: 1,
+				ench: [{
+					id: 32s,
+					lvl: 20s
+				}]
+			}
+		}
+	}]
+}

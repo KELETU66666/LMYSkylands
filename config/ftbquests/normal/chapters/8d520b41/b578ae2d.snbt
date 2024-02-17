@@ -1,0 +1,20 @@
+{
+	title: "oh yeah~",
+	x: 4.0d,
+	y: 6.5d,
+	dependencies: [
+		"5b1aee69"
+	],
+	tasks: [{
+		uid: "4ef4ae17",
+		type: "item",
+		items: [{
+			item: "modularmachinery:tailaningju_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "0084ba60",
+		type: "item",
+		item: "extrabotany:material 1 3"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		"似乎能与地球连接,但物品出来时会被覆盖一层浓厚的魔力甚至改变基础构成"
+	],
+	dependencies: [
+		"fd3e557b"
+	],
+	tasks: [{
+		uid: "4a01e63d",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	}],
+	rewards: [{
+		uid: "99eaa3b7",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

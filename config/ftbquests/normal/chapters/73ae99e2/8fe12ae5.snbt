@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: 2.0d,
+	dependencies: [
+		"e33889aa"
+	],
+	tasks: [{
+		uid: "7c990ab2",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockaltar 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

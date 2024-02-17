@@ -1,0 +1,41 @@
+{
+	title: "The End!",
+	x: 8.0d,
+	y: -8.0d,
+	shape: "hexagon",
+	dependencies: [
+		"242a1083"
+	],
+	size: 4.0d,
+	tasks: [{
+		uid: "b9411ea1",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_creative 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "402bfcb2",
+		type: "item",
+		item: "lmy:gushen",
+		count: 114
+	},
+	{
+		uid: "3a799b34",
+		type: "item",
+		item: "lmy:gushen",
+		count: 514
+	},
+	{
+		uid: "80a64dd0",
+		type: "item",
+		item: "lmy:gushen",
+		count: 1919
+	},
+	{
+		uid: "b4a5e450",
+		type: "item",
+		item: "lmy:gushen",
+		count: 810
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "[附属章节]末影接口",
+	icon: "enderio:item_capacitor_stellar",
+	always_invisible: false,
+	group: 1488665193,
+	default_quest_shape: ""
+}

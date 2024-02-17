@@ -1,0 +1,21 @@
+{
+	x: 7.0d,
+	y: -4.0d,
+	shape: "pentagon",
+	dependencies: [
+		"a7859d58"
+	],
+	tasks: [{
+		uid: "ddbf7cb8",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material"
+		}]
+	}],
+	rewards: [{
+		uid: "98dcefe1",
+		type: "ftbmoney:money",
+		ftb_money: 50L,
+		random_bonus: 30
+	}]
+}

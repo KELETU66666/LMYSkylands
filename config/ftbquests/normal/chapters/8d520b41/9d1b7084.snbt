@@ -1,0 +1,33 @@
+{
+	title: "最!终!物!品!",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "pentagon",
+	description: "不做高级魔力制造机就硬搓那你是真的牛波一",
+	text: [
+		"似乎可以极大程度的聚集魔力与少量奇妙能量,甚至可以不用液态魔力以及夜晚的奇妙能量就能改变魔力绿宝石的性质"
+	],
+	dependencies: [
+		"d3a7bd86"
+	],
+	tasks: [{
+		uid: "3598442b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lmyjuexingyingxiongxunzhang"
+		}]
+	}],
+	rewards: [{
+		uid: "5f81e857",
+		type: "item",
+		item: {
+			id: "appliedenergistics2:facade",
+			Count: 64b,
+			tag: {
+				item: "avaritia:block_resource",
+				damage: 1
+			}
+		},
+		count: 64
+	}]
+}
